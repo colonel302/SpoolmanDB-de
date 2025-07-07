@@ -19,6 +19,10 @@ jobs:
         with:
           python-version: '3.11'
           
+      - name: Install dependencies
+        run: |
+          pip install requests
+          
       - name: Run ID-Korrektur-Skript
         run: |
           python scripts/change_id.py
