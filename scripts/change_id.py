@@ -3,7 +3,7 @@ import json
 import os
 
 # URLs der Dateien
-url_original = "https://donkie.github.io/SpoolmanDB/filaments.json"
+url_original = "https://colonel302.github.io/SpoolmanDB-Multi/en/filaments.json"
 url_de = "https://colonel302.github.io/SpoolmanDB-Multi/de/filaments.json"
 
 download_folder = "temp_download"
