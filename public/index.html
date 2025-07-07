@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SpoolmanDB-Multi</title>
+    <script>
+        // Unterstützte Sprachen
+        const supportedLangs = ['de', 'en'];
+        // Repository-Name dynamisch extrahieren
+        const repoName = window.location.pathname.split('/')[1];
+        // Browsersprache ermitteln
+        const userLang = navigator.language.split('-')[0];
+        const targetLang = supportedLangs.includes(userLang) ? userLang : 'en';
+        // Weiterleitung (immer mit Repo-Name!)
+        window.location.href = `/${repoName}/${targetLang}/`;
+    </script>
+    <noscript>
+        <meta http-equiv="refresh" content="0; url=/SpoolmanDB-Multi/en/">
+    </noscript>
+</head>
+<body>
+    <p>Redirecting to your preferred language...<br>
+    <a href="/SpoolmanDB-Multi/en/">Click here if not redirected</a></p>
+</body>
+</html>
