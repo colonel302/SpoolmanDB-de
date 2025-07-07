@@ -1,4 +1,4 @@
-name: Publish filaments.json
+name: Publish corrected filaments.json
 
 on:
   push:
@@ -18,16 +18,16 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          
+
       - name: Install dependencies
         run: |
           pip install requests
-          
-      - name: Run ID-Korrektur-Skript
+
+      - name: Run change_id.py to create filaments.json
         run: |
           python scripts/change_id.py
 
-      - name: Copy filaments.json to publish folder
+      - name: Prepare publish folder
         run: |
           mkdir -p public
           cp temp_download/filaments.json public/filaments.json
