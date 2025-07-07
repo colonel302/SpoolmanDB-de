@@ -22,8 +22,15 @@ def download_json(url, filename):
 MATCH_FIELDS = ["manufacturer", "material", "color_hexes", "color_hex", "extruder_temp", "weight", "diameter", "spool_weight", "spool_type", "translucent", "glow", "extruder_temp", "bed_temp"]
 
 def make_key(item):
-    # Erzeuge einen Tupel aus den Vergleichsfeldern (fehlende Werte werden als None gesetzt)
-    return tuple(item.get(field) for field in MATCH_FIELDS)
+    key = []
+    for field in MATCH_FIELDS:
+        value = item.get(field)
+        # Falls Wert eine Liste ist, in ein Tupel umwandeln (hashbar)
+        if isinstance(value, list):
+            value = tuple(value)
+        key.append(value)
+    return tuple(key)
+
 
 # Download der Dateien
 data_original = download_json(url_original, "original_filaments.json")
