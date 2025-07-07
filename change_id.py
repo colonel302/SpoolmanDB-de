@@ -1,0 +1,58 @@
+import requests
+import json
+import os
+
+# URLs der Dateien
+url_original = "https://donkie.github.io/SpoolmanDB/filaments.json"
+url_de = "https://colonel302.github.io/SpoolmanDB-Multi/de/filaments.json"
+
+download_folder = "temp_download"
+os.makedirs(download_folder, exist_ok=True)
+
+def download_json(url, filename):
+    response = requests.get(url)
+    response.raise_for_status()
+    data = response.json()
+    filepath = os.path.join(download_folder, filename)
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    return data
+
+# Felder für den Vergleich
+MATCH_FIELDS = ["manufacturer", "material", "color_hex", "weight", "diameter", "spool_weight", "spool_type"]
+
+def make_key(item):
+    # Erzeuge einen Tupel aus den Vergleichsfeldern (fehlende Werte werden als None gesetzt)
+    return tuple(item.get(field) for field in MATCH_FIELDS)
+
+# Download der Dateien
+data_original = download_json(url_original, "original_filaments.json")
+data_de = download_json(url_de, "de_filaments.json")
+
+# Mapping: Key (technische Merkmale) -> id aus Originaldatei
+lookup_original = {}
+for item in data_original:
+    key = make_key(item)
+    lookup_original[key] = item.get("id")
+
+# IDs in der übersetzten Datei ersetzen
+count_replaced = 0
+count_unmatched = 0
+for item in data_de:
+    key = make_key(item)
+    if key in lookup_original:
+        old_id = item.get("id")
+        new_id = lookup_original[key]
+        if old_id != new_id:
+            item["id"] = new_id
+            count_replaced += 1
+    else:
+        count_unmatched += 1
+
+# Speichern der korrigierten Datei
+corrected_path = os.path.join(download_folder, "filaments.json")
+with open(corrected_path, "w", encoding="utf-8") as f:
+    json.dump(data_de, f, ensure_ascii=False, indent=2)
+
+print(f"Fertig! {count_replaced} IDs wurden ersetzt. {count_unmatched} Einträge konnten nicht gematcht werden.")
+print(f"Die korrigierte Datei liegt unter: {corrected_path}")
