@@ -36,6 +36,7 @@ jobs:
           cp templates/index.html publish/index.html
           cp templates/styles.css publish/styles.css
           cp temp_download/filaments.json publish/filaments.json
+          cp temp_download/id_mapping.json publish/id_mapping.json
           cp materials.json publish/materials.json
 
       - name: Upload artifact for GitHub Pages
