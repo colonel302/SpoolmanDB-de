@@ -2,6 +2,8 @@ import requests
 import json
 import os
 
+mapping_file = os.path.join(download_folder, "id_mapping.json")
+
 # URLs der Dateien
 url_original = "https://colonel302.github.io/SpoolmanDB-Multi/en/filaments.json"
 url_de = "https://colonel302.github.io/SpoolmanDB-Multi/de/filaments.json"
@@ -55,6 +57,40 @@ for item in data_de:
             count_replaced += 1
     else:
         count_unmatched += 1
+
+# Prüfen, ob Mapping-Datei existiert, sonst anlegen
+if not os.path.exists(mapping_file):
+    example_mapping = [
+        {"name": "Weiß", "material": "PLA", "manufacturer": "extrudr", "id": "extrudr_pla_white"},
+        {"name": "Transparent", "material": "PLA", "manufacturer": "extrudr", "id": "extrudr_pla_transparent"}
+    ]
+    with open(mapping_file, "w", encoding="utf-8") as f:
+        json.dump(example_mapping, f, ensure_ascii=False, indent=2)
+    print(f"Mapping-Datei wurde neu angelegt unter: {mapping_file}. Bitte ergänze die IDs und Werte nach Bedarf.")
+    exit(0)
+
+# Mapping-Datei laden
+with open(mapping_file, "r", encoding="utf-8") as f:
+    id_mapping = json.load(f)
+
+# Hilfsstruktur für schnellen Zugriff: (name, material, manufacturer) -> id
+mapping_by_key = {
+    (entry["name"], entry["material"], entry["manufacturer"]): entry["id"]
+    for entry in id_mapping
+}
+
+# IDs anhand der Mapping-Datei setzen (überschreiben)
+count_mapping_replaced = 0
+for item in data_de:
+    key = (item.get("name"), item.get("material"), item.get("manufacturer"))
+    if key in mapping_by_key:
+        old_id = item.get("id")
+        new_id = mapping_by_key[key]
+        if old_id != new_id:
+            item["id"] = new_id
+            count_mapping_replaced += 1
+
+print(f"{count_mapping_replaced} IDs wurden anhand der id_mapping.json überschrieben.")
 
 # Speichern der korrigierten Datei
 corrected_path = os.path.join(download_folder, "filaments.json")
