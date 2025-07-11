@@ -19,7 +19,7 @@ def download_json(url, filename):
     return data
 
 # Felder für den Vergleich
-MATCH_FIELDS = ["manufacturer", "material", "color_hexes", "color_hex", "extruder_temp", "weight", "diameter", "spool_weight", "spool_type", "translucent", "glow", "extruder_temp", "bed_temp"]
+MATCH_FIELDS = ["manufacturer", "material", "color_hexes", "color_hex", "extruder_temp", "weight", "diameter", "spool_weight", "spool_type", "finish", "density", "translucent", "glow", "extruder_temp", "bed_temp"]
 
 def make_key(item):
     key = []
