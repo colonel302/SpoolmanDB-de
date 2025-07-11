@@ -2,14 +2,13 @@ import requests
 import json
 import os
 
-mapping_file = os.path.join(download_folder, "id_mapping.json")
-
 # URLs der Dateien
 url_original = "https://colonel302.github.io/SpoolmanDB-Multi/en/filaments.json"
 url_de = "https://colonel302.github.io/SpoolmanDB-Multi/de/filaments.json"
 
 download_folder = "temp_download"
 os.makedirs(download_folder, exist_ok=True)
+mapping_file = os.path.join(download_folder, "id_mapping.json")
 
 def download_json(url, filename):
     response = requests.get(url)
