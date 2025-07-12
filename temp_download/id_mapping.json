@@ -11,7 +11,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_2300_175_p",
+    "id": "formfutura_pla_easyfilplalightblue_2300_175_c",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -22,7 +22,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_2300_285_p",
+    "id": "formfutura_pla_easyfilplalightblue_2300_285_c",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -33,7 +33,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_2300_285_p",
+    "id": "formfutura_pla_easyfilplalightblue_2300_285_c",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -44,7 +44,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_4500_175_p",
+    "id": "formfutura_pla_easyfilplalightblue_4500_175_c",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -55,7 +55,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_4500_175_p",
+    "id": "formfutura_pla_easyfilplalightblue_4500_175_c",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -66,7 +66,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_4500_285_p",
+    "id": "formfutura_pla_easyfilplalightblue_4500_285_c",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -77,7 +77,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_4500_285_p",
+    "id": "formfutura_pla_easyfilplalightblue_4500_285_c",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -88,7 +88,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_2300_175_p",
+    "id": "formfutura_pla_easyfilplalightgrey_2300_175_c",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -99,7 +99,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_2300_175_p",
+    "id": "formfutura_pla_easyfilplalightgrey_2300_175_c",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -110,7 +110,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_2300_285_p",
+    "id": "formfutura_pla_easyfilplalightgrey_2300_285_c",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -121,7 +121,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_2300_285_p",
+    "id": "formfutura_pla_easyfilplalightgrey_2300_285_c",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -132,7 +132,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_4500_175_p",
+    "id": "formfutura_pla_easyfilplalightgrey_4500_175_c",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -143,7 +143,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_4500_175_p",
+    "id": "formfutura_pla_easyfilplalightgrey_4500_175_c",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -154,7 +154,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_4500_285_p",
+    "id": "formfutura_pla_easyfilplalightgrey_4500_285_c",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -165,7 +165,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_4500_285_p",
+    "id": "formfutura_pla_easyfilplalightgrey_4500_285_c",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -176,7 +176,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_2300_175_p",
+    "id": "formfutura_pla_easyfilplalightgreen_2300_175_c",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -187,7 +187,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_2300_175_p",
+    "id": "formfutura_pla_easyfilplalightgreen_2300_175_c",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -198,7 +198,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_2300_285_p",
+    "id": "formfutura_pla_easyfilplalightgreen_2300_285_c",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -209,7 +209,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_2300_285_p",
+    "id": "formfutura_pla_easyfilplalightgreen_2300_285_c",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -220,7 +220,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_4500_175_p",
+    "id": "formfutura_pla_easyfilplalightgreen_4500_175_c",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -231,7 +231,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_4500_175_p",
+    "id": "formfutura_pla_easyfilplalightgreen_4500_175_c",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -242,7 +242,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_4500_285_p",
+    "id": "formfutura_pla_easyfilplalightgreen_4500_285_c",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -253,7 +253,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_4500_285_p",
+    "id": "formfutura_pla_easyfilplalightgreen_4500_285_c",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -264,7 +264,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_2300_175_p",
+    "id": "formfutura_pla_easyfilplanatural_2300_175_c",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -275,7 +275,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_2300_175_p",
+    "id": "formfutura_pla_easyfilplanatural_2300_175_c",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -286,7 +286,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_2300_285_p",
+    "id": "formfutura_pla_easyfilplanatural_2300_285_c",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -297,7 +297,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_2300_285_p",
+    "id": "formfutura_pla_easyfilplanatural_2300_285_c",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -308,7 +308,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_4500_175_p",
+    "id": "formfutura_pla_easyfilplanatural_4500_175_c",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -319,7 +319,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_4500_175_p",
+    "id": "formfutura_pla_easyfilplanatural_4500_175_c",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -330,7 +330,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_4500_285_p",
+    "id": "formfutura_pla_easyfilplanatural_4500_285_c",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -341,7 +341,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_4500_285_p",
+    "id": "formfutura_pla_easyfilplanatural_4500_285_c",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -352,7 +352,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplablack_2300_175_p",
+    "id": "formfutura_pla_easyfilplablack_2300_175_c",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -363,7 +363,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplablack_2300_175_p",
+    "id": "formfutura_pla_easyfilplablack_2300_175_c",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -374,7 +374,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplablack_2300_285_p",
+    "id": "formfutura_pla_easyfilplablack_2300_285_c",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -385,7 +385,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplablack_2300_285_p",
+    "id": "formfutura_pla_easyfilplablack_2300_285_c",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -396,7 +396,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplablack_4500_175_p",
+    "id": "formfutura_pla_easyfilplablack_4500_175_c",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -407,7 +407,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplablack_4500_175_p",
+    "id": "formfutura_pla_easyfilplablack_4500_175_c",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -418,7 +418,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplablack_4500_285_p",
+    "id": "formfutura_pla_easyfilplablack_4500_285_c",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -429,7 +429,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplablack_4500_285_p",
+    "id": "formfutura_pla_easyfilplablack_4500_285_c",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -440,7 +440,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_2300_175_p",
+    "id": "formfutura_pla_easyfilplaluminousyellow_2300_175_c",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -451,7 +451,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_2300_175_p",
+    "id": "formfutura_pla_easyfilplaluminousyellow_2300_175_c",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -462,7 +462,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_2300_285_p",
+    "id": "formfutura_pla_easyfilplaluminousyellow_2300_285_c",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -473,7 +473,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_2300_285_p",
+    "id": "formfutura_pla_easyfilplaluminousyellow_2300_285_c",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -484,7 +484,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_4500_175_p",
+    "id": "formfutura_pla_easyfilplaluminousyellow_4500_175_c",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -495,7 +495,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_4500_175_p",
+    "id": "formfutura_pla_easyfilplaluminousyellow_4500_175_c",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -506,7 +506,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_4500_285_p",
+    "id": "formfutura_pla_easyfilplaluminousyellow_4500_285_c",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -517,7 +517,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_4500_285_p",
+    "id": "formfutura_pla_easyfilplaluminousyellow_4500_285_c",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -528,7 +528,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplawhite_2300_175_p",
+    "id": "formfutura_pla_easyfilplawhite_2300_175_c",
     "name": "EasyFil PLA Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -539,7 +539,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplawhite_2300_175_p",
+    "id": "formfutura_pla_easyfilplawhite_2300_175_c",
     "name": "EasyFil PLA Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -550,7 +550,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplawhite_2300_285_p",
+    "id": "formfutura_pla_easyfilplawhite_2300_285_c",
     "name": "EasyFil PLA Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -561,7 +561,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplawhite_2300_285_p",
+    "id": "formfutura_pla_easyfilplawhite_2300_285_c",
     "name": "EasyFil PLA Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -572,7 +572,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplawhite_4500_175_p",
+    "id": "formfutura_pla_easyfilplawhite_4500_175_c",
     "name": "EasyFil PLA Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -583,7 +583,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplawhite_4500_175_p",
+    "id": "formfutura_pla_easyfilplawhite_4500_175_c",
     "name": "EasyFil PLA Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -594,7 +594,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplawhite_4500_285_p",
+    "id": "formfutura_pla_easyfilplawhite_4500_285_c",
     "name": "EasyFil PLA Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -605,7 +605,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplawhite_4500_285_p",
+    "id": "formfutura_pla_easyfilplawhite_4500_285_c",
     "name": "EasyFil PLA Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -616,7 +616,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_2300_175_p",
+    "id": "formfutura_pla_easyfileplasignalwhite_2300_175_c",
     "name": "EasyFil ePLA Signal Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -627,7 +627,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_2300_175_p",
+    "id": "formfutura_pla_easyfileplasignalwhite_2300_175_c",
     "name": "EasyFil ePLA Signal Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -638,7 +638,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_2300_285_p",
+    "id": "formfutura_pla_easyfileplasignalwhite_2300_285_c",
     "name": "EasyFil ePLA Signal Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -649,7 +649,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_2300_285_p",
+    "id": "formfutura_pla_easyfileplasignalwhite_2300_285_c",
     "name": "EasyFil ePLA Signal Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -660,7 +660,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_4500_175_p",
+    "id": "formfutura_pla_easyfileplasignalwhite_4500_175_c",
     "name": "EasyFil ePLA Signal Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -671,7 +671,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_4500_175_p",
+    "id": "formfutura_pla_easyfileplasignalwhite_4500_175_c",
     "name": "EasyFil ePLA Signal Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -682,7 +682,7 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_4500_285_p",
+    "id": "formfutura_pla_easyfileplasignalwhite_4500_285_c",
     "name": "EasyFil ePLA Signal Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -693,7 +693,7 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_4500_285_p",
+    "id": "formfutura_pla_easyfileplasignalwhite_4500_285_c",
     "name": "EasyFil ePLA Signal Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -737,7 +737,7 @@
     "diameter": 1.75
   },
   {
-    "id": "polymaker_pla_polyliteplamagenta_1000_175_p",
+    "id": "polymaker_pla_polyliteplamagenta_1000_175_c",
     "name": "PolyLite™ PLA Magenta",
     "material": "PLA",
     "manufacturer": "Polymaker",
@@ -748,7 +748,7 @@
     "diameter": 1.75
   },
   {
-    "id": "polymaker_pla_polyliteplamagenta_1000_175_p",
+    "id": "polymaker_pla_polyliteplamagenta_1000_175_c",
     "name": "PolyLite™ PLA Magenta",
     "material": "PLA",
     "manufacturer": "Polymaker",
@@ -759,7 +759,7 @@
     "diameter": 1.75
   },
   {
-    "id": "polymaker_pla_polyliteplamagenta_1000_285_p",
+    "id": "polymaker_pla_polyliteplamagenta_1000_285_c",
     "name": "PolyLite™ PLA Magenta",
     "material": "PLA",
     "manufacturer": "Polymaker",
@@ -770,7 +770,7 @@
     "diameter": 2.85
   },
   {
-    "id": "polymaker_pla_polyliteplamagenta_1000_285_p",
+    "id": "polymaker_pla_polyliteplamagenta_1000_285_c",
     "name": "PolyLite™ PLA Magenta",
     "material": "PLA",
     "manufacturer": "Polymaker",
