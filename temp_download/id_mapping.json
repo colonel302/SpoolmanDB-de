@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Weiß",
+    "material": "PLA",
+    "manufacturer": "extrudr",
+    "id": "extrudr_pla_white"
+  },
+  {
+    "name": "Transparent",
+    "material": "PLA",
+    "manufacturer": "extrudr",
+    "id": "extrudr_pla_transparent"
+  }
+]
