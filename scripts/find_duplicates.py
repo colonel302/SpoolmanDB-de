@@ -31,6 +31,7 @@ for items in duplicates:
             "weight": entry.get("weight"),
             "color_hex": entry.get("color_hex"),
             "density": entry.get("density"),
+            "spool_type": entry.get("spool_type"),
             "diameter": entry.get("diameter")
         })
 
