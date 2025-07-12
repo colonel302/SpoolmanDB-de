@@ -12,9 +12,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -30,13 +34,13 @@ jobs:
       - name: Finde doppelte IDs und exportiere Mapping
         run: python scripts/find_duplicates.py
 
-      - name: Upload build artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: filaments-artifacts
-          path: |
-            temp_download/filaments.json
-            temp_download/id_mapping.json
-            materials.json
-            templates/index.html
-            templates/styles.css
+      - name: Commit generated JSON files to main branch
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git pull origin main
+          git add temp_download/de_filaments.json temp_download/filaments.json temp_download/original_filaments.json temp_download/id_mapping.json
+          git commit -m "Update generated JSON files [automated]" || echo "No changes to commit"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
