@@ -13,6 +13,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -36,7 +37,8 @@ jobs:
           cp templates/index.html publish/index.html
           cp templates/styles.css publish/styles.css
           cp temp_download/filaments.json publish/filaments.json
-          cp temp_download/id_mapping.json publish/id_mapping.json
+          # Kopiere die Mapping-Datei, falls sie existiert
+          if [ -f temp_download/id_mapping.json ]; then cp temp_download/id_mapping.json publish/id_mapping.json; fi
           cp materials.json publish/materials.json
 
       - name: Upload artifact for GitHub Pages
@@ -50,6 +52,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
