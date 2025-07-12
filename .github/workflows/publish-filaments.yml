@@ -41,6 +41,16 @@ jobs:
           if [ -f temp_download/id_mapping.json ]; then cp temp_download/id_mapping.json publish/id_mapping.json; fi
           cp materials.json publish/materials.json
 
+      - name: Commit id_mapping.json to main branch
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add temp_download/id_mapping.json
+          git commit -m "Update id_mapping.json [automated]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
