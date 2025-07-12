@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+      - feature/*
+      - bugfix/*
+      - hotfix/*
   workflow_dispatch:
 
 jobs:
@@ -21,8 +24,11 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run build script
+      - name: Run ID-Tausch-Skript
         run: python scripts/change_id.py
+
+      - name: Finde doppelte IDs und exportiere Mapping
+        run: python scripts/find_duplicates.py
 
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
