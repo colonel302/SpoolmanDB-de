@@ -31,7 +31,7 @@ for items in duplicates:
             "weight": entry.get("weight"),
             "color_hex": entry.get("color_hex"),
             "density": entry.get("density"),
-            "diameter" entry.get("diameter")
+            "diameter": entry.get("diameter")
         })
 
 with open(mapping_file, "w", encoding="utf-8") as f:
