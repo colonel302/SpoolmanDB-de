@@ -1,25 +1,28 @@
 name: Deploy Filaments
 
 on:
-  workflow_run:
-    workflows: ["Build Filaments"]
-    branches: [main]
-    types:
-      - completed
+  push:
+    branches:
+      - main
+  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Create publish folder
         run: mkdir -p publish
 
-      - name: Download build artifacts
-        uses: actions/download-artifact@v4
-        with:
-          name: filaments-artifacts
-          path: ./publish
+      - name: Copy files to publish folder
+        run: |
+          cp templates/index.html publish/index.html
+          cp templates/styles.css publish/styles.css
+          cp temp_download/filaments.json publish/filaments.json
+          cp materials.json publish/materials.json
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
