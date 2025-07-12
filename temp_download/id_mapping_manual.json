@@ -8,7 +8,7 @@
         "color_hex": "FFFF00",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "3djake_pla_cmykwhite_1000_175_n",
@@ -19,7 +19,7 @@
         "color_hex": "FFFFFF",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "aurapol_petg_naturaltransparent_1000_175_p",
@@ -52,7 +52,7 @@
         "color_hex": "FFFFFF",
         "density": 1.2,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "cr3d_abs_absfeuerrot_1000_175_n",
@@ -63,7 +63,7 @@
         "color_hex": "9b3036",
         "density": 1.05,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "cr3d_abs_absmagenta_1000_175_n",
@@ -74,7 +74,7 @@
         "color_hex": "a2294c",
         "density": 1.05,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "cr3d_abs_abswasserblau_1000_175_n",
@@ -85,7 +85,7 @@
         "color_hex": "046b7a",
         "density": 1.05,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "cr3d_petg_petgwasserblau_1000_175_n",
@@ -96,7 +96,7 @@
         "color_hex": "046b7a",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_bluehyper_1000_175_n",
@@ -107,7 +107,7 @@
         "color_hex": "0000FF",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_brownhyper_1000_175_n",
@@ -118,7 +118,7 @@
         "color_hex": "6E1F1F",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_skinhyper_1000_175_n",
@@ -129,7 +129,7 @@
         "color_hex": "FFE6E6",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_yellowhyper_1000_175_n",
@@ -140,7 +140,7 @@
         "color_hex": "FFFF00",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_goldhyper_1000_175_n",
@@ -151,7 +151,7 @@
         "color_hex": "FCC200",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_greyhyper_1000_175_n",
@@ -162,7 +162,7 @@
         "color_hex": "AAA9A8",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_greenhyper_1000_175_n",
@@ -173,7 +173,7 @@
         "color_hex": "00FF00",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_purplehyper_1000_175_n",
@@ -184,7 +184,7 @@
         "color_hex": "BF00FF",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_orangehyper_1000_175_n",
@@ -195,7 +195,7 @@
         "color_hex": "FF8000",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_peachfuzzhyper_1000_175_n",
@@ -206,7 +206,7 @@
         "color_hex": "FF7373",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_redhyper_1000_175_n",
@@ -217,7 +217,7 @@
         "color_hex": "FF0000",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_black_1000_175_n",
@@ -228,7 +228,7 @@
         "color_hex": "000000",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_blackhyper_1000_175_n",
@@ -239,7 +239,7 @@
         "color_hex": "000000",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_veryperihyper_1000_175_n",
@@ -250,7 +250,7 @@
         "color_hex": "2222FF",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_vivamagentahyper_1000_175_n",
@@ -261,7 +261,7 @@
         "color_hex": "FF00FF",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_white_1000_175_n",
@@ -272,7 +272,7 @@
         "color_hex": "FFFFFF",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "creality_pla_whitehyper_1000_175_n",
@@ -283,7 +283,7 @@
         "color_hex": "FFFFFF",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "devildesign_petg_galaxygreen_1000_175_n",
@@ -294,7 +294,7 @@
         "color_hex": "114232",
         "density": 1.23,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "devildesign_pla_galaxygreen_1000_175_n",
@@ -305,7 +305,7 @@
         "color_hex": "114232",
         "density": 1.24,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "extrudr_biofusion_metallicgrey_800_175_p",
@@ -1790,7 +1790,7 @@
         "color_hex": "75787B",
         "density": 1.06,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "overture_pla_matteplarainbow_1000_175_c",
@@ -2285,7 +2285,7 @@
         "color_hex": "e0a000",
         "density": 1.27,
         "diameter": 1.75,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "esun_petg_solidgold_1000_285_n",
@@ -2296,7 +2296,7 @@
         "color_hex": "e0a000",
         "density": 1.27,
         "diameter": 2.85,
-        "spool_type": "null"
+        "spool_type": null
     },
     {
         "id": "esun_pla_pla-luminouscoredluminousblue_1000_175_c",
