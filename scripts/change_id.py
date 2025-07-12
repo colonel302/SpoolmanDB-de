@@ -2,13 +2,12 @@ import requests
 import json
 import os
 
-# URLs der Dateien
+# URLs der Quelldateien
 url_original = "https://colonel302.github.io/SpoolmanDB-Multi/en/filaments.json"
 url_de = "https://colonel302.github.io/SpoolmanDB-Multi/de/filaments.json"
 
 download_folder = "temp_download"
 os.makedirs(download_folder, exist_ok=True)
-mapping_file = os.path.join(download_folder, "id_mapping.json")
 
 def download_json(url, filename):
     response = requests.get(url)
@@ -19,21 +18,22 @@ def download_json(url, filename):
         json.dump(data, f, ensure_ascii=False, indent=2)
     return data
 
-# Felder für den Vergleich
-MATCH_FIELDS = ["manufacturer", "material", "color_hexes", "color_hex", "extruder_temp", "weight", "diameter", "spool_weight", "spool_type", "finish", "density", "translucent", "glow", "extruder_temp", "bed_temp"]
+MATCH_FIELDS = [
+    "manufacturer", "material", "color_hexes", "color_hex", "extruder_temp",
+    "weight", "diameter", "spool_weight", "spool_type", "finish", "density",
+    "translucent", "glow", "extruder_temp", "bed_temp"
+]
 
 def make_key(item):
     key = []
     for field in MATCH_FIELDS:
         value = item.get(field)
-        # Falls Wert eine Liste ist, in ein Tupel umwandeln (hashbar)
         if isinstance(value, list):
             value = tuple(value)
         key.append(value)
     return tuple(key)
 
-
-# Download der Dateien
+# Download der Quelldateien
 data_original = download_json(url_original, "original_filaments.json")
 data_de = download_json(url_de, "de_filaments.json")
 
@@ -57,10 +57,10 @@ for item in data_de:
     else:
         count_unmatched += 1
 
-# Speichern der korrigierten Datei
-corrected_path = os.path.join(download_folder, "filaments.json")
-with open(corrected_path, "w", encoding="utf-8") as f:
+# Speichern als temporäre Datei
+temp_path = os.path.join(download_folder, "temp_filaments.json")
+with open(temp_path, "w", encoding="utf-8") as f:
     json.dump(data_de, f, ensure_ascii=False, indent=2)
 
-print(f"Fertig! {count_replaced} IDs wurden ersetzt. {count_unmatched} Einträge konnten nicht gematcht werden.")
-print(f"Die korrigierte Datei liegt unter: {corrected_path}")
+print(f"Fertig! {count_replaced} IDs ersetzt. {count_unmatched} Einträge konnten nicht gematcht werden.")
+print(f"Temporäre Datei liegt unter: {temp_path}")
