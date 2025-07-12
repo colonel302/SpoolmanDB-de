@@ -9648,10 +9648,10 @@
     "glow": false
   },
   {
-    "id": "bambulab_pa_supportforpa/pet_250_175_n",
+    "id": "bambulab_pa-s_supportforpa/pet_250_175_n",
     "manufacturer": "Bambu Lab",
     "name": "Support for PA/PET",
-    "material": "PA",
+    "material": "PA-S",
     "density": 1.17,
     "weight": 250,
     "spool_weight": 250,
@@ -9670,10 +9670,10 @@
     "glow": false
   },
   {
-    "id": "bambulab_pa_supportforpa/pet_500_175_n",
+    "id": "bambulab_pa-s_supportforpa/pet_500_175_n",
     "manufacturer": "Bambu Lab",
     "name": "Support for PA/PET",
-    "material": "PA",
+    "material": "PA-S",
     "density": 1.17,
     "weight": 500,
     "spool_weight": 250,
