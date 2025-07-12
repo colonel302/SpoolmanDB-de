@@ -1980,7 +1980,7 @@
     "glow": false
   },
   {
-    "id": "3djake_pla_cmykyellow_1000_175_n",
+    "id": "3djake_pla_neonyellow_1000_175_n",
     "manufacturer": "3DJAKE",
     "name": "CMYK Gelb",
     "material": "PLA",
@@ -2024,7 +2024,7 @@
     "glow": false
   },
   {
-    "id": "3djake_pla_cmykwhite_1000_175_n",
+    "id": "3djake_pla_white_1000_175_n",
     "manufacturer": "3DJAKE",
     "name": "CMYK Weiß",
     "material": "PLA",
