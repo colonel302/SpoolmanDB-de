@@ -1,6 +1,10 @@
 name: Deploy Filaments
 
 on:
+  workflow_run:
+    workflows: ["Build Filaments"]
+    types:
+      - completed
   push:
     branches:
       - main
