@@ -15,11 +15,8 @@ with open(filaments_file, "r", encoding="utf-8") as f:
 
 id_to_items = defaultdict(list)
 
-# Nur plastic/cardboard berücksichtigen
+# Alle Einträge berücksichtigen, unabhängig von spool_type
 for item in data:
-    spool_type = item.get("spool_type")
-    if spool_type not in ("plastic", "cardboard"):
-        continue
     id_to_items[item.get("id")].append(item)
 
 duplicates = [items for items in id_to_items.values() if len(items) > 1]
@@ -42,4 +39,4 @@ for items in duplicates:
 with open(mapping_file, "w", encoding="utf-8") as f:
     json.dump(mapping_entries, f, ensure_ascii=False, indent=2)
 
-print(f"{len(mapping_entries)} doppelte IDs (nur plastic/cardboard) wurden in {mapping_file} exportiert.")
+print(f"{len(mapping_entries)} doppelte IDs (alle spool_types) wurden in {mapping_file} exportiert.")
