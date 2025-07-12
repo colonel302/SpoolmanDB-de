@@ -1980,7 +1980,7 @@
     "glow": false
   },
   {
-    "id": "3djake_pla_neonyellow_1000_175_n",
+    "id": "3djake_pla_cmykyellow_1000_175_n",
     "manufacturer": "3DJAKE",
     "name": "CMYK Gelb",
     "material": "PLA",
@@ -2024,7 +2024,7 @@
     "glow": false
   },
   {
-    "id": "3djake_pla_white_1000_175_n",
+    "id": "3djake_pla_cmykwhite_1000_175_n",
     "manufacturer": "3DJAKE",
     "name": "CMYK Weiß",
     "material": "PLA",
@@ -7364,7 +7364,7 @@
     "glow": false
   },
   {
-    "id": "aurapol_petg_white_1000_175_p",
+    "id": "aurapol_petg_naturaltransparent_1000_175_p",
     "manufacturer": "AURAPOL",
     "name": "Natürliches Transparent",
     "material": "PETG",
@@ -7784,7 +7784,7 @@
     "glow": false
   },
   {
-    "id": "aurapol_pla_white_1000_175_p",
+    "id": "aurapol_pla_natural_1000_175_p",
     "manufacturer": "AURAPOL",
     "name": "Natürlich",
     "material": "PLA",
@@ -10044,7 +10044,7 @@
     "glow": false
   },
   {
-    "id": "bambulab_pc_white_1000_175_n",
+    "id": "bambulab_pc_transparent_1000_175_n",
     "manufacturer": "Bambu Lab",
     "name": "Transparent",
     "material": "PC",
@@ -15223,7 +15223,7 @@
     "glow": false
   },
   {
-    "id": "cr3d_abs_absmagicred_1000_175_n",
+    "id": "cr3d_abs_absfeuerrot_1000_175_n",
     "manufacturer": "CR3D",
     "name": "ABS Feuerrot",
     "material": "ABS",
@@ -15333,7 +15333,7 @@
     "glow": false
   },
   {
-    "id": "cr3d_abs_absmagicmagenta_1000_175_n",
+    "id": "cr3d_abs_absmagenta_1000_175_n",
     "manufacturer": "CR3D",
     "name": "ABS Magenta",
     "material": "ABS",
@@ -15685,7 +15685,7 @@
     "glow": false
   },
   {
-    "id": "cr3d_abs_abswasserblaumagic_1000_175_n",
+    "id": "cr3d_abs_abswasserblau_1000_175_n",
     "manufacturer": "CR3D",
     "name": "ABS Wasserblau",
     "material": "ABS",
@@ -16411,7 +16411,7 @@
     "glow": false
   },
   {
-    "id": "cr3d_petg_petgwasserblaumagic_1000_175_n",
+    "id": "cr3d_petg_petgwasserblau_1000_175_n",
     "manufacturer": "CR3D",
     "name": "PETG Wasserblau",
     "material": "PETG",
@@ -16631,7 +16631,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_bluehyperrfid_1000_175_n",
+    "id": "creality_pla_bluehyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Blau Hyper",
     "material": "PLA",
@@ -16675,7 +16675,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_brownhyperrfid_1000_175_n",
+    "id": "creality_pla_brownhyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Braun Hyper",
     "material": "PLA",
@@ -16807,7 +16807,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_skinhyperrfid_1000_175_n",
+    "id": "creality_pla_skinhyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Fleisch Hyper",
     "material": "PLA",
@@ -16851,7 +16851,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_yellowhyperrfid_1000_175_n",
+    "id": "creality_pla_yellowhyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Gelb Hyper",
     "material": "PLA",
@@ -16895,7 +16895,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_goldhyperrfid_1000_175_n",
+    "id": "creality_pla_goldhyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Gold Hyper",
     "material": "PLA",
@@ -16961,7 +16961,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_greyhyperrfid_1000_175_n",
+    "id": "creality_pla_greyhyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Grau Hyper",
     "material": "PLA",
@@ -17027,7 +17027,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_greenhyperrfid_1000_175_n",
+    "id": "creality_pla_greenhyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Grün Hyper",
     "material": "PLA",
@@ -17093,7 +17093,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_purplehyperrfid_1000_175_n",
+    "id": "creality_pla_purplehyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Lila Hyper",
     "material": "PLA",
@@ -17137,7 +17137,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_orangehyperrfid_1000_175_n",
+    "id": "creality_pla_orangehyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Orange Hyper",
     "material": "PLA",
@@ -17181,7 +17181,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_peachfuzzhyperrfid_1000_175_n",
+    "id": "creality_pla_peachfuzzhyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Pfirsich Fuzz Hyper",
     "material": "PLA",
@@ -17275,7 +17275,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_redhyperrfid_1000_175_n",
+    "id": "creality_pla_redhyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Rot Hyper",
     "material": "PLA",
@@ -17319,7 +17319,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_blackhyperrfid_1000_175_n",
+    "id": "creality_pla_black_1000_175_n",
     "manufacturer": "Creality",
     "name": "Schwarz",
     "material": "PLA",
@@ -17341,7 +17341,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_blackhyperrfid_1000_175_n",
+    "id": "creality_pla_blackhyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Schwarz Hyper",
     "material": "PLA",
@@ -17385,7 +17385,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_veryperihyperrfid_1000_175_n",
+    "id": "creality_pla_veryperihyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Sehr Peri Hyper",
     "material": "PLA",
@@ -17451,7 +17451,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_vivamagentahyperrfid_1000_175_n",
+    "id": "creality_pla_vivamagentahyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Viva Magenta Hyper",
     "material": "PLA",
@@ -17495,7 +17495,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_whitehyperrfid_1000_175_n",
+    "id": "creality_pla_white_1000_175_n",
     "manufacturer": "Creality",
     "name": "Weiß",
     "material": "PLA",
@@ -17517,7 +17517,7 @@
     "glow": false
   },
   {
-    "id": "creality_pla_whitehyperrfid_1000_175_n",
+    "id": "creality_pla_whitehyper_1000_175_n",
     "manufacturer": "Creality",
     "name": "Weiß Hyper",
     "material": "PLA",
@@ -21301,7 +21301,7 @@
     "glow": false
   },
   {
-    "id": "devildesign_petg_racegreen_1000_175_n",
+    "id": "devildesign_petg_galaxygreen_1000_175_n",
     "manufacturer": "Devil Design",
     "name": "Galaxie Grün",
     "material": "PETG",
@@ -22335,7 +22335,7 @@
     "glow": false
   },
   {
-    "id": "devildesign_pla_racegreen_1000_175_n",
+    "id": "devildesign_pla_galaxygreen_1000_175_n",
     "manufacturer": "Devil Design",
     "name": "Galaxie Grün",
     "material": "PLA",
@@ -29014,7 +29014,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_biofusion_quicksilver_800_175_p",
+    "id": "extrudr_biofusion_metallicgrey_800_175_p",
     "manufacturer": "Extrudr",
     "name": "Metallic Grey",
     "material": "BIOFUSION",
@@ -29036,7 +29036,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_biofusion_quicksilver_800_285_p",
+    "id": "extrudr_biofusion_metallicgrey_800_285_p",
     "manufacturer": "Extrudr",
     "name": "Metallic Grey",
     "material": "BIOFUSION",
@@ -32996,7 +32996,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_1100_175_p",
+    "id": "extrudr_petg_bronze_1100_175_p",
     "manufacturer": "Extrudr",
     "name": "Bronze",
     "material": "PETG",
@@ -33018,7 +33018,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_1100_285_p",
+    "id": "extrudr_petg_bronze_1100_285_p",
     "manufacturer": "Extrudr",
     "name": "Bronze",
     "material": "PETG",
@@ -33040,7 +33040,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_2500_175_p",
+    "id": "extrudr_petg_bronze_2500_175_p",
     "manufacturer": "Extrudr",
     "name": "Bronze",
     "material": "PETG",
@@ -33062,7 +33062,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_2500_285_p",
+    "id": "extrudr_petg_bronze_2500_285_p",
     "manufacturer": "Extrudr",
     "name": "Bronze",
     "material": "PETG",
@@ -33084,7 +33084,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_5000_175_p",
+    "id": "extrudr_petg_bronze_5000_175_p",
     "manufacturer": "Extrudr",
     "name": "Bronze",
     "material": "PETG",
@@ -33106,7 +33106,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_5000_285_p",
+    "id": "extrudr_petg_bronze_5000_285_p",
     "manufacturer": "Extrudr",
     "name": "Bronze",
     "material": "PETG",
@@ -33128,7 +33128,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_10000_175_p",
+    "id": "extrudr_petg_bronze_10000_175_p",
     "manufacturer": "Extrudr",
     "name": "Bronze",
     "material": "PETG",
@@ -33150,7 +33150,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_10000_285_p",
+    "id": "extrudr_petg_bronze_10000_285_p",
     "manufacturer": "Extrudr",
     "name": "Bronze",
     "material": "PETG",
@@ -33700,7 +33700,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_1100_175_p",
+    "id": "extrudr_petg_hellfirered_1100_175_p",
     "manufacturer": "Extrudr",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
@@ -33722,7 +33722,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_1100_285_p",
+    "id": "extrudr_petg_hellfirered_1100_285_p",
     "manufacturer": "Extrudr",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
@@ -33744,7 +33744,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_2500_175_p",
+    "id": "extrudr_petg_hellfirered_2500_175_p",
     "manufacturer": "Extrudr",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
@@ -33766,7 +33766,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_2500_285_p",
+    "id": "extrudr_petg_hellfirered_2500_285_p",
     "manufacturer": "Extrudr",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
@@ -33788,7 +33788,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_5000_175_p",
+    "id": "extrudr_petg_hellfirered_5000_175_p",
     "manufacturer": "Extrudr",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
@@ -33810,7 +33810,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_5000_285_p",
+    "id": "extrudr_petg_hellfirered_5000_285_p",
     "manufacturer": "Extrudr",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
@@ -33832,7 +33832,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_10000_175_p",
+    "id": "extrudr_petg_hellfirered_10000_175_p",
     "manufacturer": "Extrudr",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
@@ -33854,7 +33854,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_petg_neonred_10000_285_p",
+    "id": "extrudr_petg_hellfirered_10000_285_p",
     "manufacturer": "Extrudr",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
@@ -39552,7 +39552,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_pla_basic-white_1000_175_p",
+    "id": "extrudr_pla_basic-cmyklithowhite_1000_175_p",
     "manufacturer": "Extrudr",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
@@ -39574,7 +39574,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_pla_basic-white_1000_285_p",
+    "id": "extrudr_pla_basic-cmyklithowhite_1000_285_p",
     "manufacturer": "Extrudr",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
@@ -39596,7 +39596,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_pla_basic-white_2500_175_p",
+    "id": "extrudr_pla_basic-cmyklithowhite_2500_175_p",
     "manufacturer": "Extrudr",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
@@ -39618,7 +39618,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_pla_basic-white_2500_285_p",
+    "id": "extrudr_pla_basic-cmyklithowhite_2500_285_p",
     "manufacturer": "Extrudr",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
@@ -39640,7 +39640,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_pla_basic-white_5000_175_p",
+    "id": "extrudr_pla_basic-cmyklithowhite_5000_175_p",
     "manufacturer": "Extrudr",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
@@ -39662,7 +39662,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_pla_basic-white_5000_285_p",
+    "id": "extrudr_pla_basic-cmyklithowhite_5000_285_p",
     "manufacturer": "Extrudr",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
@@ -39684,7 +39684,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_pla_basic-white_10000_175_p",
+    "id": "extrudr_pla_basic-cmyklithowhite_10000_175_p",
     "manufacturer": "Extrudr",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
@@ -39706,7 +39706,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_pla_basic-white_10000_285_p",
+    "id": "extrudr_pla_basic-cmyklithowhite_10000_285_p",
     "manufacturer": "Extrudr",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
@@ -44436,7 +44436,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_tpu_flex-neonred-medium_750_175_p",
+    "id": "extrudr_tpu_flex-hellfirered-medium_750_175_p",
     "manufacturer": "Extrudr",
     "name": "FLEX - Höllenfeuer Rot - Medium",
     "material": "TPU",
@@ -44458,7 +44458,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_tpu_flex-neonred-medium_750_285_p",
+    "id": "extrudr_tpu_flex-hellfirered-medium_750_285_p",
     "manufacturer": "Extrudr",
     "name": "FLEX - Höllenfeuer Rot - Medium",
     "material": "TPU",
@@ -44480,7 +44480,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_tpu_flex-neonred-medium_2000_175_p",
+    "id": "extrudr_tpu_flex-hellfirered-medium_2000_175_p",
     "manufacturer": "Extrudr",
     "name": "FLEX - Höllenfeuer Rot - Medium",
     "material": "TPU",
@@ -44502,7 +44502,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_tpu_flex-neonred-medium_2000_285_p",
+    "id": "extrudr_tpu_flex-hellfirered-medium_2000_285_p",
     "manufacturer": "Extrudr",
     "name": "FLEX - Höllenfeuer Rot - Medium",
     "material": "TPU",
@@ -44524,7 +44524,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_tpu_flex-neonred-medium_5000_175_p",
+    "id": "extrudr_tpu_flex-hellfirered-medium_5000_175_p",
     "manufacturer": "Extrudr",
     "name": "FLEX - Höllenfeuer Rot - Medium",
     "material": "TPU",
@@ -44546,7 +44546,7 @@
     "glow": false
   },
   {
-    "id": "extrudr_tpu_flex-neonred-medium_5000_285_p",
+    "id": "extrudr_tpu_flex-hellfirered-medium_5000_285_p",
     "manufacturer": "Extrudr",
     "name": "FLEX - Höllenfeuer Rot - Medium",
     "material": "TPU",
@@ -54402,7 +54402,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightblue_250_175_c",
+    "id": "formfutura_pla_easyfilplalightblue_250_175_c",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
@@ -54430,7 +54430,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightblue_250_285_c",
+    "id": "formfutura_pla_easyfilplalightblue_250_285_c",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
@@ -54514,7 +54514,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightblue_2300_175_c",
+    "id": "formfutura_pla_easyfilplalightblue_2300_175_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
@@ -54542,7 +54542,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightblue_2300_285_c",
+    "id": "formfutura_pla_easyfilplalightblue_2300_285_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
@@ -54570,7 +54570,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightblue_2300_175_p",
+    "id": "formfutura_pla_easyfilplalightblue_2300_175_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
@@ -54598,7 +54598,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightblue_2300_285_p",
+    "id": "formfutura_pla_easyfilplalightblue_2300_285_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
@@ -54626,7 +54626,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightblue_4500_175_c",
+    "id": "formfutura_pla_easyfilplalightblue_4500_175_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
@@ -54654,7 +54654,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightblue_4500_285_c",
+    "id": "formfutura_pla_easyfilplalightblue_4500_285_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
@@ -54682,7 +54682,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightblue_4500_175_p",
+    "id": "formfutura_pla_easyfilplalightblue_4500_175_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
@@ -54710,7 +54710,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightblue_4500_285_p",
+    "id": "formfutura_pla_easyfilplalightblue_4500_285_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
@@ -54738,7 +54738,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightblue_8000_175_p",
+    "id": "formfutura_pla_easyfilplalightblue_8000_175_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
@@ -54766,7 +54766,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightblue_8000_285_p",
+    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
@@ -54794,7 +54794,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgrey_250_175_c",
+    "id": "formfutura_pla_easyfilplalightgrey_250_175_c",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
@@ -54822,7 +54822,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgrey_250_285_c",
+    "id": "formfutura_pla_easyfilplalightgrey_250_285_c",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
@@ -54906,7 +54906,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgrey_2300_175_c",
+    "id": "formfutura_pla_easyfilplalightgrey_2300_175_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
@@ -54934,7 +54934,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgrey_2300_285_c",
+    "id": "formfutura_pla_easyfilplalightgrey_2300_285_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
@@ -54962,7 +54962,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgrey_2300_175_p",
+    "id": "formfutura_pla_easyfilplalightgrey_2300_175_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
@@ -54990,7 +54990,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgrey_2300_285_p",
+    "id": "formfutura_pla_easyfilplalightgrey_2300_285_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
@@ -55018,7 +55018,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgrey_4500_175_c",
+    "id": "formfutura_pla_easyfilplalightgrey_4500_175_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
@@ -55046,7 +55046,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgrey_4500_285_c",
+    "id": "formfutura_pla_easyfilplalightgrey_4500_285_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
@@ -55074,7 +55074,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgrey_4500_175_p",
+    "id": "formfutura_pla_easyfilplalightgrey_4500_175_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
@@ -55102,7 +55102,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgrey_4500_285_p",
+    "id": "formfutura_pla_easyfilplalightgrey_4500_285_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
@@ -55130,7 +55130,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgrey_8000_175_p",
+    "id": "formfutura_pla_easyfilplalightgrey_8000_175_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
@@ -55158,7 +55158,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgrey_8000_285_p",
+    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
@@ -55186,7 +55186,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgreen_250_175_c",
+    "id": "formfutura_pla_easyfilplalightgreen_250_175_c",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
@@ -55214,7 +55214,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgreen_250_285_c",
+    "id": "formfutura_pla_easyfilplalightgreen_250_285_c",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
@@ -55298,7 +55298,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgreen_2300_175_c",
+    "id": "formfutura_pla_easyfilplalightgreen_2300_175_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
@@ -55326,7 +55326,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgreen_2300_285_c",
+    "id": "formfutura_pla_easyfilplalightgreen_2300_285_c",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
@@ -55354,7 +55354,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgreen_2300_175_p",
+    "id": "formfutura_pla_easyfilplalightgreen_2300_175_p",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
@@ -55382,7 +55382,7 @@
     "glow": false
   },
   {
-    "id": "formfutura_pla_easyfileplalightgreen_2300_285_p",
+    "id": "formfutura_pla_easyfilplalightgreen_2300_285_c",
     "manufacturer": "Formfutura",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
