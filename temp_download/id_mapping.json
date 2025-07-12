@@ -1,6 +1,6 @@
 [
   {
-    "id": "3djake_pla_cmykyellow_1000_175_n",
+    "id": "3djake_pla_neonyellow_1000_175_n",
     "name": "CMYK Gelb",
     "material": "PLA",
     "manufacturer": "3DJAKE",
@@ -18,7 +18,7 @@
     "density": 1.24
   },
   {
-    "id": "3djake_pla_cmykwhite_1000_175_n",
+    "id": "3djake_pla_white_1000_175_n",
     "name": "CMYK Weiß",
     "material": "PLA",
     "manufacturer": "3DJAKE",
