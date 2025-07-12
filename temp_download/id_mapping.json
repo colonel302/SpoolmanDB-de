@@ -1,6 +1,546 @@
 [
   {
-    "id": "extrudr_biofusion_metallicgrey_800_285_p",
+    "id": "3djake_pla_neonyellow_1000_175_n",
+    "name": "CMYK Gelb",
+    "material": "PLA",
+    "manufacturer": "3DJAKE",
+    "weight": 1000.0,
+    "color_hex": "FFFF00",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "3djake_pla_neonyellow_1000_175_n",
+    "name": "Neon Gelb",
+    "material": "PLA",
+    "manufacturer": "3DJAKE",
+    "weight": 1000.0,
+    "color_hex": "FFFF00",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "3djake_pla_white_1000_175_n",
+    "name": "CMYK Weiß",
+    "material": "PLA",
+    "manufacturer": "3DJAKE",
+    "weight": 1000.0,
+    "color_hex": "FFFFFF",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "3djake_pla_white_1000_175_n",
+    "name": "Weiß",
+    "material": "PLA",
+    "manufacturer": "3DJAKE",
+    "weight": 1000.0,
+    "color_hex": "FFFFFF",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "aurapol_petg_white_1000_175_p",
+    "name": "Natürliches Transparent",
+    "material": "PETG",
+    "manufacturer": "AURAPOL",
+    "weight": 1000.0,
+    "color_hex": "ffffff",
+    "density": 1.259,
+    "diameter": 1.75
+  },
+  {
+    "id": "aurapol_petg_white_1000_175_p",
+    "name": "Weiß",
+    "material": "PETG",
+    "manufacturer": "AURAPOL",
+    "weight": 1000.0,
+    "color_hex": "ffffff",
+    "density": 1.259,
+    "diameter": 1.75
+  },
+  {
+    "id": "aurapol_pla_white_1000_175_p",
+    "name": "Natürlich",
+    "material": "PLA",
+    "manufacturer": "AURAPOL",
+    "weight": 1000.0,
+    "color_hex": "ffffff",
+    "density": 1.223,
+    "diameter": 1.75
+  },
+  {
+    "id": "aurapol_pla_white_1000_175_p",
+    "name": "Weiß",
+    "material": "PLA",
+    "manufacturer": "AURAPOL",
+    "weight": 1000.0,
+    "color_hex": "ffffff",
+    "density": 1.223,
+    "diameter": 1.75
+  },
+  {
+    "id": "bambulab_pc_white_1000_175_n",
+    "name": "Transparent",
+    "material": "PC",
+    "manufacturer": "Bambu Lab",
+    "weight": 1000,
+    "color_hex": "FFFFFF",
+    "density": 1.2,
+    "diameter": 1.75
+  },
+  {
+    "id": "bambulab_pc_white_1000_175_n",
+    "name": "Weiß",
+    "material": "PC",
+    "manufacturer": "Bambu Lab",
+    "weight": 1000,
+    "color_hex": "FFFFFF",
+    "density": 1.2,
+    "diameter": 1.75
+  },
+  {
+    "id": "cr3d_abs_absmagicred_1000_175_n",
+    "name": "ABS Feuerrot",
+    "material": "ABS",
+    "manufacturer": "CR3D",
+    "weight": 1000.0,
+    "color_hex": "9b3036",
+    "density": 1.05,
+    "diameter": 1.75
+  },
+  {
+    "id": "cr3d_abs_absmagicred_1000_175_n",
+    "name": "ABS Magie Rot",
+    "material": "ABS",
+    "manufacturer": "CR3D",
+    "weight": 1000.0,
+    "color_hex": "9b3036",
+    "density": 1.05,
+    "diameter": 1.75
+  },
+  {
+    "id": "cr3d_abs_absmagicmagenta_1000_175_n",
+    "name": "ABS Magenta",
+    "material": "ABS",
+    "manufacturer": "CR3D",
+    "weight": 1000.0,
+    "color_hex": "a2294c",
+    "density": 1.05,
+    "diameter": 1.75
+  },
+  {
+    "id": "cr3d_abs_absmagicmagenta_1000_175_n",
+    "name": "ABS Magic Magenta",
+    "material": "ABS",
+    "manufacturer": "CR3D",
+    "weight": 1000.0,
+    "color_hex": "a2294c",
+    "density": 1.05,
+    "diameter": 1.75
+  },
+  {
+    "id": "cr3d_abs_abswasserblaumagic_1000_175_n",
+    "name": "ABS Wasserblau",
+    "material": "ABS",
+    "manufacturer": "CR3D",
+    "weight": 1000.0,
+    "color_hex": "046b7a",
+    "density": 1.05,
+    "diameter": 1.75
+  },
+  {
+    "id": "cr3d_abs_abswasserblaumagic_1000_175_n",
+    "name": "ABS Wasserblau Magie",
+    "material": "ABS",
+    "manufacturer": "CR3D",
+    "weight": 1000.0,
+    "color_hex": "046b7a",
+    "density": 1.05,
+    "diameter": 1.75
+  },
+  {
+    "id": "cr3d_petg_petgwasserblaumagic_1000_175_n",
+    "name": "PETG Wasserblau",
+    "material": "PETG",
+    "manufacturer": "CR3D",
+    "weight": 1000.0,
+    "color_hex": "046b7a",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "cr3d_petg_petgwasserblaumagic_1000_175_n",
+    "name": "PETG Wasserblau Magie",
+    "material": "PETG",
+    "manufacturer": "CR3D",
+    "weight": 1000.0,
+    "color_hex": "046b7a",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_bluehyperrfid_1000_175_n",
+    "name": "Blau Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "0000FF",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_bluehyperrfid_1000_175_n",
+    "name": "Blau Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "0000FF",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_brownhyperrfid_1000_175_n",
+    "name": "Braun Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "6E1F1F",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_brownhyperrfid_1000_175_n",
+    "name": "Braun Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "6E1F1F",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_skinhyperrfid_1000_175_n",
+    "name": "Fleisch Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FFE6E6",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_skinhyperrfid_1000_175_n",
+    "name": "Haut Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FFE6E6",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_yellowhyperrfid_1000_175_n",
+    "name": "Gelb Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FFFF00",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_yellowhyperrfid_1000_175_n",
+    "name": "Gelb Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FFFF00",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_goldhyperrfid_1000_175_n",
+    "name": "Gold Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FCC200",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_goldhyperrfid_1000_175_n",
+    "name": "Gold Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FCC200",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_greyhyperrfid_1000_175_n",
+    "name": "Grau Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "AAA9A8",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_greyhyperrfid_1000_175_n",
+    "name": "Grau Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "AAA9A8",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_greenhyperrfid_1000_175_n",
+    "name": "Grün Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "00FF00",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_greenhyperrfid_1000_175_n",
+    "name": "Grün Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "00FF00",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_purplehyperrfid_1000_175_n",
+    "name": "Lila Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "BF00FF",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_purplehyperrfid_1000_175_n",
+    "name": "Lila Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "BF00FF",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_orangehyperrfid_1000_175_n",
+    "name": "Orange Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FF8000",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_orangehyperrfid_1000_175_n",
+    "name": "Orange Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FF8000",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_peachfuzzhyperrfid_1000_175_n",
+    "name": "Pfirsich Fuzz Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FF7373",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_peachfuzzhyperrfid_1000_175_n",
+    "name": "Pfirsich Fuzz Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FF7373",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_redhyperrfid_1000_175_n",
+    "name": "Rot Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FF0000",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_redhyperrfid_1000_175_n",
+    "name": "Rot Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FF0000",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_blackhyperrfid_1000_175_n",
+    "name": "Schwarz",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000,
+    "color_hex": "000000",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_blackhyperrfid_1000_175_n",
+    "name": "Schwarz Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "000000",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_blackhyperrfid_1000_175_n",
+    "name": "Schwarz Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "000000",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_veryperihyperrfid_1000_175_n",
+    "name": "Sehr Peri Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "2222FF",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_veryperihyperrfid_1000_175_n",
+    "name": "Sehr Peri Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "2222FF",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_vivamagentahyperrfid_1000_175_n",
+    "name": "Viva Magenta Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FF00FF",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_vivamagentahyperrfid_1000_175_n",
+    "name": "Viva Magenta Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FF00FF",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_whitehyperrfid_1000_175_n",
+    "name": "Weiß",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000,
+    "color_hex": "FFFFFF",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_whitehyperrfid_1000_175_n",
+    "name": "Weiß Hyper",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FFFFFF",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "creality_pla_whitehyperrfid_1000_175_n",
+    "name": "Weiß Hyper RFID",
+    "material": "PLA",
+    "manufacturer": "Creality",
+    "weight": 1000.0,
+    "color_hex": "FFFFFF",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "devildesign_petg_racegreen_1000_175_n",
+    "name": "Galaxie Grün",
+    "material": "PETG",
+    "manufacturer": "Devil Design",
+    "weight": 1000,
+    "color_hex": "114232",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "devildesign_petg_racegreen_1000_175_n",
+    "name": "Renn Grün",
+    "material": "PETG",
+    "manufacturer": "Devil Design",
+    "weight": 1000,
+    "color_hex": "114232",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "devildesign_pla_racegreen_1000_175_n",
+    "name": "Galaxie Grün",
+    "material": "PLA",
+    "manufacturer": "Devil Design",
+    "weight": 1000,
+    "color_hex": "114232",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "devildesign_pla_racegreen_1000_175_n",
+    "name": "Renn Grün",
+    "material": "PLA",
+    "manufacturer": "Devil Design",
+    "weight": 1000,
+    "color_hex": "114232",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_biofusion_quicksilver_800_175_p",
     "name": "Metallic Grey",
     "material": "BIOFUSION",
     "manufacturer": "Extrudr",
@@ -10,7 +550,17 @@
     "diameter": 1.75
   },
   {
-    "id": "extrudr_biofusion_metallicgrey_800_285_p",
+    "id": "extrudr_biofusion_quicksilver_800_175_p",
+    "name": "Quecksilber",
+    "material": "BIOFUSION",
+    "manufacturer": "Extrudr",
+    "weight": 800.0,
+    "color_hex": "828282",
+    "density": 1.25,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_biofusion_quicksilver_800_285_p",
     "name": "Metallic Grey",
     "material": "BIOFUSION",
     "manufacturer": "Extrudr",
@@ -20,7 +570,17 @@
     "diameter": 2.85
   },
   {
-    "id": "extrudr_petg_bronze_10000_285_p",
+    "id": "extrudr_biofusion_quicksilver_800_285_p",
+    "name": "Quecksilber",
+    "material": "BIOFUSION",
+    "manufacturer": "Extrudr",
+    "weight": 800.0,
+    "color_hex": "828282",
+    "density": 1.25,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_petg_neonred_1100_175_p",
     "name": "Bronze",
     "material": "PETG",
     "manufacturer": "Extrudr",
@@ -30,77 +590,7 @@
     "diameter": 1.75
   },
   {
-    "id": "extrudr_petg_bronze_10000_285_p",
-    "name": "Bronze",
-    "material": "PETG",
-    "manufacturer": "Extrudr",
-    "weight": 1100.0,
-    "color_hex": "F80000",
-    "density": 1.3,
-    "diameter": 2.85
-  },
-  {
-    "id": "extrudr_petg_bronze_10000_285_p",
-    "name": "Bronze",
-    "material": "PETG",
-    "manufacturer": "Extrudr",
-    "weight": 2500.0,
-    "color_hex": "F80000",
-    "density": 1.3,
-    "diameter": 1.75
-  },
-  {
-    "id": "extrudr_petg_bronze_10000_285_p",
-    "name": "Bronze",
-    "material": "PETG",
-    "manufacturer": "Extrudr",
-    "weight": 2500.0,
-    "color_hex": "F80000",
-    "density": 1.3,
-    "diameter": 2.85
-  },
-  {
-    "id": "extrudr_petg_bronze_10000_285_p",
-    "name": "Bronze",
-    "material": "PETG",
-    "manufacturer": "Extrudr",
-    "weight": 5000.0,
-    "color_hex": "F80000",
-    "density": 1.3,
-    "diameter": 1.75
-  },
-  {
-    "id": "extrudr_petg_bronze_10000_285_p",
-    "name": "Bronze",
-    "material": "PETG",
-    "manufacturer": "Extrudr",
-    "weight": 5000.0,
-    "color_hex": "F80000",
-    "density": 1.3,
-    "diameter": 2.85
-  },
-  {
-    "id": "extrudr_petg_bronze_10000_285_p",
-    "name": "Bronze",
-    "material": "PETG",
-    "manufacturer": "Extrudr",
-    "weight": 10000.0,
-    "color_hex": "F80000",
-    "density": 1.3,
-    "diameter": 1.75
-  },
-  {
-    "id": "extrudr_petg_bronze_10000_285_p",
-    "name": "Bronze",
-    "material": "PETG",
-    "manufacturer": "Extrudr",
-    "weight": 10000.0,
-    "color_hex": "F80000",
-    "density": 1.3,
-    "diameter": 2.85
-  },
-  {
-    "id": "extrudr_petg_hellfirered_10000_285_p",
+    "id": "extrudr_petg_neonred_1100_175_p",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
     "manufacturer": "Extrudr",
@@ -110,7 +600,27 @@
     "diameter": 1.75
   },
   {
-    "id": "extrudr_petg_hellfirered_10000_285_p",
+    "id": "extrudr_petg_neonred_1100_175_p",
+    "name": "Neonrot",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 1100.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_petg_neonred_1100_285_p",
+    "name": "Bronze",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 1100.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_petg_neonred_1100_285_p",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
     "manufacturer": "Extrudr",
@@ -120,7 +630,27 @@
     "diameter": 2.85
   },
   {
-    "id": "extrudr_petg_hellfirered_10000_285_p",
+    "id": "extrudr_petg_neonred_1100_285_p",
+    "name": "Neonrot",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 1100.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_petg_neonred_2500_175_p",
+    "name": "Bronze",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 2500.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_petg_neonred_2500_175_p",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
     "manufacturer": "Extrudr",
@@ -130,7 +660,27 @@
     "diameter": 1.75
   },
   {
-    "id": "extrudr_petg_hellfirered_10000_285_p",
+    "id": "extrudr_petg_neonred_2500_175_p",
+    "name": "Neonrot",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 2500.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_petg_neonred_2500_285_p",
+    "name": "Bronze",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 2500.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_petg_neonred_2500_285_p",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
     "manufacturer": "Extrudr",
@@ -140,7 +690,27 @@
     "diameter": 2.85
   },
   {
-    "id": "extrudr_petg_hellfirered_10000_285_p",
+    "id": "extrudr_petg_neonred_2500_285_p",
+    "name": "Neonrot",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 2500.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_petg_neonred_5000_175_p",
+    "name": "Bronze",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 5000.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_petg_neonred_5000_175_p",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
     "manufacturer": "Extrudr",
@@ -150,7 +720,27 @@
     "diameter": 1.75
   },
   {
-    "id": "extrudr_petg_hellfirered_10000_285_p",
+    "id": "extrudr_petg_neonred_5000_175_p",
+    "name": "Neonrot",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 5000.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_petg_neonred_5000_285_p",
+    "name": "Bronze",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 5000.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_petg_neonred_5000_285_p",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
     "manufacturer": "Extrudr",
@@ -160,7 +750,27 @@
     "diameter": 2.85
   },
   {
-    "id": "extrudr_petg_hellfirered_10000_285_p",
+    "id": "extrudr_petg_neonred_5000_285_p",
+    "name": "Neonrot",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 5000.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_petg_neonred_10000_175_p",
+    "name": "Bronze",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 10000.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_petg_neonred_10000_175_p",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
     "manufacturer": "Extrudr",
@@ -170,7 +780,27 @@
     "diameter": 1.75
   },
   {
-    "id": "extrudr_petg_hellfirered_10000_285_p",
+    "id": "extrudr_petg_neonred_10000_175_p",
+    "name": "Neonrot",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 10000.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_petg_neonred_10000_285_p",
+    "name": "Bronze",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 10000.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_petg_neonred_10000_285_p",
     "name": "Höllenfeuer Rot",
     "material": "PETG",
     "manufacturer": "Extrudr",
@@ -180,7 +810,17 @@
     "diameter": 2.85
   },
   {
-    "id": "extrudr_pla_basic-cmyklithowhite_10000_285_p",
+    "id": "extrudr_petg_neonred_10000_285_p",
+    "name": "Neonrot",
+    "material": "PETG",
+    "manufacturer": "Extrudr",
+    "weight": 10000.0,
+    "color_hex": "F80000",
+    "density": 1.3,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_pla_basic-white_1000_175_p",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
     "manufacturer": "Extrudr",
@@ -190,7 +830,17 @@
     "diameter": 1.75
   },
   {
-    "id": "extrudr_pla_basic-cmyklithowhite_10000_285_p",
+    "id": "extrudr_pla_basic-white_1000_175_p",
+    "name": "Basic - Weiß",
+    "material": "PLA",
+    "manufacturer": "Extrudr",
+    "weight": 1000.0,
+    "color_hex": "F4F4F4",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_pla_basic-white_1000_285_p",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
     "manufacturer": "Extrudr",
@@ -200,7 +850,17 @@
     "diameter": 2.85
   },
   {
-    "id": "extrudr_pla_basic-cmyklithowhite_10000_285_p",
+    "id": "extrudr_pla_basic-white_1000_285_p",
+    "name": "Basic - Weiß",
+    "material": "PLA",
+    "manufacturer": "Extrudr",
+    "weight": 1000.0,
+    "color_hex": "F4F4F4",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_pla_basic-white_2500_175_p",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
     "manufacturer": "Extrudr",
@@ -210,7 +870,17 @@
     "diameter": 1.75
   },
   {
-    "id": "extrudr_pla_basic-cmyklithowhite_10000_285_p",
+    "id": "extrudr_pla_basic-white_2500_175_p",
+    "name": "Basic - Weiß",
+    "material": "PLA",
+    "manufacturer": "Extrudr",
+    "weight": 2500.0,
+    "color_hex": "F4F4F4",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_pla_basic-white_2500_285_p",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
     "manufacturer": "Extrudr",
@@ -220,7 +890,17 @@
     "diameter": 2.85
   },
   {
-    "id": "extrudr_pla_basic-cmyklithowhite_10000_285_p",
+    "id": "extrudr_pla_basic-white_2500_285_p",
+    "name": "Basic - Weiß",
+    "material": "PLA",
+    "manufacturer": "Extrudr",
+    "weight": 2500.0,
+    "color_hex": "F4F4F4",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_pla_basic-white_5000_175_p",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
     "manufacturer": "Extrudr",
@@ -230,7 +910,17 @@
     "diameter": 1.75
   },
   {
-    "id": "extrudr_pla_basic-cmyklithowhite_10000_285_p",
+    "id": "extrudr_pla_basic-white_5000_175_p",
+    "name": "Basic - Weiß",
+    "material": "PLA",
+    "manufacturer": "Extrudr",
+    "weight": 5000.0,
+    "color_hex": "F4F4F4",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_pla_basic-white_5000_285_p",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
     "manufacturer": "Extrudr",
@@ -240,7 +930,17 @@
     "diameter": 2.85
   },
   {
-    "id": "extrudr_pla_basic-cmyklithowhite_10000_285_p",
+    "id": "extrudr_pla_basic-white_5000_285_p",
+    "name": "Basic - Weiß",
+    "material": "PLA",
+    "manufacturer": "Extrudr",
+    "weight": 5000.0,
+    "color_hex": "F4F4F4",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_pla_basic-white_10000_175_p",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
     "manufacturer": "Extrudr",
@@ -250,7 +950,17 @@
     "diameter": 1.75
   },
   {
-    "id": "extrudr_pla_basic-cmyklithowhite_10000_285_p",
+    "id": "extrudr_pla_basic-white_10000_175_p",
+    "name": "Basic - Weiß",
+    "material": "PLA",
+    "manufacturer": "Extrudr",
+    "weight": 10000.0,
+    "color_hex": "F4F4F4",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_pla_basic-white_10000_285_p",
     "name": "Basic - CMYK Lithoweiß",
     "material": "PLA",
     "manufacturer": "Extrudr",
@@ -260,7 +970,17 @@
     "diameter": 2.85
   },
   {
-    "id": "extrudr_tpu_flex-hellfirered-medium_5000_285_p",
+    "id": "extrudr_pla_basic-white_10000_285_p",
+    "name": "Basic - Weiß",
+    "material": "PLA",
+    "manufacturer": "Extrudr",
+    "weight": 10000.0,
+    "color_hex": "F4F4F4",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_tpu_flex-neonred-medium_750_175_p",
     "name": "FLEX - Höllenfeuer Rot - Medium",
     "material": "TPU",
     "manufacturer": "Extrudr",
@@ -270,7 +990,17 @@
     "diameter": 1.75
   },
   {
-    "id": "extrudr_tpu_flex-hellfirered-medium_5000_285_p",
+    "id": "extrudr_tpu_flex-neonred-medium_750_175_p",
+    "name": "FLEX - Neonrot - Medium",
+    "material": "TPU",
+    "manufacturer": "Extrudr",
+    "weight": 750.0,
+    "color_hex": "F80000",
+    "density": 1.2,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_tpu_flex-neonred-medium_750_285_p",
     "name": "FLEX - Höllenfeuer Rot - Medium",
     "material": "TPU",
     "manufacturer": "Extrudr",
@@ -280,7 +1010,17 @@
     "diameter": 2.85
   },
   {
-    "id": "extrudr_tpu_flex-hellfirered-medium_5000_285_p",
+    "id": "extrudr_tpu_flex-neonred-medium_750_285_p",
+    "name": "FLEX - Neonrot - Medium",
+    "material": "TPU",
+    "manufacturer": "Extrudr",
+    "weight": 750.0,
+    "color_hex": "F80000",
+    "density": 1.2,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_tpu_flex-neonred-medium_2000_175_p",
     "name": "FLEX - Höllenfeuer Rot - Medium",
     "material": "TPU",
     "manufacturer": "Extrudr",
@@ -290,7 +1030,17 @@
     "diameter": 1.75
   },
   {
-    "id": "extrudr_tpu_flex-hellfirered-medium_5000_285_p",
+    "id": "extrudr_tpu_flex-neonred-medium_2000_175_p",
+    "name": "FLEX - Neonrot - Medium",
+    "material": "TPU",
+    "manufacturer": "Extrudr",
+    "weight": 2000.0,
+    "color_hex": "F80000",
+    "density": 1.2,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_tpu_flex-neonred-medium_2000_285_p",
     "name": "FLEX - Höllenfeuer Rot - Medium",
     "material": "TPU",
     "manufacturer": "Extrudr",
@@ -300,7 +1050,17 @@
     "diameter": 2.85
   },
   {
-    "id": "extrudr_tpu_flex-hellfirered-medium_5000_285_p",
+    "id": "extrudr_tpu_flex-neonred-medium_2000_285_p",
+    "name": "FLEX - Neonrot - Medium",
+    "material": "TPU",
+    "manufacturer": "Extrudr",
+    "weight": 2000.0,
+    "color_hex": "F80000",
+    "density": 1.2,
+    "diameter": 2.85
+  },
+  {
+    "id": "extrudr_tpu_flex-neonred-medium_5000_175_p",
     "name": "FLEX - Höllenfeuer Rot - Medium",
     "material": "TPU",
     "manufacturer": "Extrudr",
@@ -310,7 +1070,17 @@
     "diameter": 1.75
   },
   {
-    "id": "extrudr_tpu_flex-hellfirered-medium_5000_285_p",
+    "id": "extrudr_tpu_flex-neonred-medium_5000_175_p",
+    "name": "FLEX - Neonrot - Medium",
+    "material": "TPU",
+    "manufacturer": "Extrudr",
+    "weight": 5000.0,
+    "color_hex": "F80000",
+    "density": 1.2,
+    "diameter": 1.75
+  },
+  {
+    "id": "extrudr_tpu_flex-neonred-medium_5000_285_p",
     "name": "FLEX - Höllenfeuer Rot - Medium",
     "material": "TPU",
     "manufacturer": "Extrudr",
@@ -320,7 +1090,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
+    "id": "extrudr_tpu_flex-neonred-medium_5000_285_p",
+    "name": "FLEX - Neonrot - Medium",
+    "material": "TPU",
+    "manufacturer": "Extrudr",
+    "weight": 5000.0,
+    "color_hex": "F80000",
+    "density": 1.2,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightblue_250_175_c",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -330,7 +1110,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightblue_250_175_c",
+    "name": "EasyFil ePLA (Light) Hellblau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 250.0,
+    "color_hex": "308cc1",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightblue_250_285_c",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -340,27 +1130,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
-    "name": "EasyFil PLA (Light) Hellblau",
+    "id": "formfutura_pla_easyfileplalightblue_250_285_c",
+    "name": "EasyFil ePLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
-    "weight": 750.0,
-    "color_hex": "308cc1",
-    "density": 1.24,
-    "diameter": 1.75
-  },
-  {
-    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
-    "name": "EasyFil PLA (Light) Hellblau",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 750.0,
+    "weight": 250.0,
     "color_hex": "308cc1",
     "density": 1.24,
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightblue_2300_175_c",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -370,7 +1150,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightblue_2300_175_c",
+    "name": "EasyFil ePLA (Light) Hellblau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "308cc1",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightblue_2300_285_c",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -380,7 +1170,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightblue_2300_285_c",
+    "name": "EasyFil ePLA (Light) Hellblau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "308cc1",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightblue_2300_175_p",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -390,7 +1190,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightblue_2300_175_p",
+    "name": "EasyFil ePLA (Light) Hellblau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "308cc1",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightblue_2300_285_p",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -400,7 +1210,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightblue_2300_285_p",
+    "name": "EasyFil ePLA (Light) Hellblau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "308cc1",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightblue_4500_175_c",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -410,7 +1230,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightblue_4500_175_c",
+    "name": "EasyFil ePLA (Light) Hellblau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "308cc1",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightblue_4500_285_c",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -420,7 +1250,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightblue_4500_285_c",
+    "name": "EasyFil ePLA (Light) Hellblau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "308cc1",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightblue_4500_175_p",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -430,7 +1270,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightblue_4500_175_p",
+    "name": "EasyFil ePLA (Light) Hellblau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "308cc1",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightblue_4500_285_p",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -440,7 +1290,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightblue_4500_285_p",
+    "name": "EasyFil ePLA (Light) Hellblau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "308cc1",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightblue_8000_175_p",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -450,7 +1310,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightblue_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightblue_8000_175_p",
+    "name": "EasyFil ePLA (Light) Hellblau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "308cc1",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightblue_8000_285_p",
     "name": "EasyFil PLA (Light) Hellblau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -460,7 +1330,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightblue_8000_285_p",
+    "name": "EasyFil ePLA (Light) Hellblau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "308cc1",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgrey_250_175_c",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -470,7 +1350,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgrey_250_175_c",
+    "name": "EasyFil ePLA (Light) Hellgrau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 250.0,
+    "color_hex": "e8e8e8",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgrey_250_285_c",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -480,27 +1370,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
-    "name": "EasyFil PLA (Light) Hellgrau",
+    "id": "formfutura_pla_easyfileplalightgrey_250_285_c",
+    "name": "EasyFil ePLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
-    "weight": 750.0,
-    "color_hex": "e8e8e8",
-    "density": 1.24,
-    "diameter": 1.75
-  },
-  {
-    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
-    "name": "EasyFil PLA (Light) Hellgrau",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 750.0,
+    "weight": 250.0,
     "color_hex": "e8e8e8",
     "density": 1.24,
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgrey_2300_175_c",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -510,7 +1390,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgrey_2300_175_c",
+    "name": "EasyFil ePLA (Light) Hellgrau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "e8e8e8",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgrey_2300_285_c",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -520,7 +1410,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgrey_2300_285_c",
+    "name": "EasyFil ePLA (Light) Hellgrau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "e8e8e8",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgrey_2300_175_p",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -530,7 +1430,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgrey_2300_175_p",
+    "name": "EasyFil ePLA (Light) Hellgrau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "e8e8e8",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgrey_2300_285_p",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -540,7 +1450,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgrey_2300_285_p",
+    "name": "EasyFil ePLA (Light) Hellgrau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "e8e8e8",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgrey_4500_175_c",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -550,7 +1470,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgrey_4500_175_c",
+    "name": "EasyFil ePLA (Light) Hellgrau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "e8e8e8",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgrey_4500_285_c",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -560,7 +1490,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgrey_4500_285_c",
+    "name": "EasyFil ePLA (Light) Hellgrau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "e8e8e8",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgrey_4500_175_p",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -570,7 +1510,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgrey_4500_175_p",
+    "name": "EasyFil ePLA (Light) Hellgrau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "e8e8e8",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgrey_4500_285_p",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -580,7 +1530,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgrey_4500_285_p",
+    "name": "EasyFil ePLA (Light) Hellgrau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "e8e8e8",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgrey_8000_175_p",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -590,7 +1550,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgrey_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgrey_8000_175_p",
+    "name": "EasyFil ePLA (Light) Hellgrau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "e8e8e8",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgrey_8000_285_p",
     "name": "EasyFil PLA (Light) Hellgrau",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -600,7 +1570,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgrey_8000_285_p",
+    "name": "EasyFil ePLA (Light) Hellgrau",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "e8e8e8",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgreen_250_175_c",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -610,7 +1590,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgreen_250_175_c",
+    "name": "EasyFil ePLA (Light) Hellgrün",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 250.0,
+    "color_hex": "81d742",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgreen_250_285_c",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -620,27 +1610,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_8000_285_p",
-    "name": "EasyFil PLA (Light) Hellgrün",
+    "id": "formfutura_pla_easyfileplalightgreen_250_285_c",
+    "name": "EasyFil ePLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
-    "weight": 750.0,
-    "color_hex": "81d742",
-    "density": 1.24,
-    "diameter": 1.75
-  },
-  {
-    "id": "formfutura_pla_easyfilplalightgreen_8000_285_p",
-    "name": "EasyFil PLA (Light) Hellgrün",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 750.0,
+    "weight": 250.0,
     "color_hex": "81d742",
     "density": 1.24,
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgreen_2300_175_c",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -650,7 +1630,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgreen_2300_175_c",
+    "name": "EasyFil ePLA (Light) Hellgrün",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "81d742",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgreen_2300_285_c",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -660,7 +1650,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgreen_2300_285_c",
+    "name": "EasyFil ePLA (Light) Hellgrün",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "81d742",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgreen_2300_175_p",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -670,7 +1670,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgreen_2300_175_p",
+    "name": "EasyFil ePLA (Light) Hellgrün",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "81d742",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgreen_2300_285_p",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -680,7 +1690,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgreen_2300_285_p",
+    "name": "EasyFil ePLA (Light) Hellgrün",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "81d742",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgreen_4500_175_c",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -690,7 +1710,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgreen_4500_175_c",
+    "name": "EasyFil ePLA (Light) Hellgrün",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "81d742",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgreen_4500_285_c",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -700,7 +1730,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgreen_4500_285_c",
+    "name": "EasyFil ePLA (Light) Hellgrün",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "81d742",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgreen_4500_175_p",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -710,7 +1750,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgreen_4500_175_p",
+    "name": "EasyFil ePLA (Light) Hellgrün",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "81d742",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgreen_4500_285_p",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -720,7 +1770,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgreen_4500_285_p",
+    "name": "EasyFil ePLA (Light) Hellgrün",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "81d742",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgreen_8000_175_p",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -730,7 +1790,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplalightgreen_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgreen_8000_175_p",
+    "name": "EasyFil ePLA (Light) Hellgrün",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "81d742",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplalightgreen_8000_285_p",
     "name": "EasyFil PLA (Light) Hellgrün",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -740,7 +1810,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_8000_285_p",
+    "id": "formfutura_pla_easyfileplalightgreen_8000_285_p",
+    "name": "EasyFil ePLA (Light) Hellgrün",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "81d742",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplanatural_250_175_c",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -750,7 +1830,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_8000_285_p",
+    "id": "formfutura_pla_easyfileplanatural_250_175_c",
+    "name": "EasyFil ePLA Natürlich",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 250.0,
+    "color_hex": "e9eacc",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplanatural_250_285_c",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -760,27 +1850,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_8000_285_p",
-    "name": "EasyFil PLA Natürlich",
+    "id": "formfutura_pla_easyfileplanatural_250_285_c",
+    "name": "EasyFil ePLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
-    "weight": 750.0,
-    "color_hex": "e9eacc",
-    "density": 1.24,
-    "diameter": 1.75
-  },
-  {
-    "id": "formfutura_pla_easyfilplanatural_8000_285_p",
-    "name": "EasyFil PLA Natürlich",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 750.0,
+    "weight": 250.0,
     "color_hex": "e9eacc",
     "density": 1.24,
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_8000_285_p",
+    "id": "formfutura_pla_easyfileplanatural_2300_175_c",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -790,7 +1870,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_8000_285_p",
+    "id": "formfutura_pla_easyfileplanatural_2300_175_c",
+    "name": "EasyFil ePLA Natürlich",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "e9eacc",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplanatural_2300_285_c",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -800,7 +1890,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_8000_285_p",
+    "id": "formfutura_pla_easyfileplanatural_2300_285_c",
+    "name": "EasyFil ePLA Natürlich",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "e9eacc",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplanatural_2300_175_p",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -810,7 +1910,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_8000_285_p",
+    "id": "formfutura_pla_easyfileplanatural_2300_175_p",
+    "name": "EasyFil ePLA Natürlich",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "e9eacc",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplanatural_2300_285_p",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -820,7 +1930,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_8000_285_p",
+    "id": "formfutura_pla_easyfileplanatural_2300_285_p",
+    "name": "EasyFil ePLA Natürlich",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "e9eacc",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplanatural_4500_175_c",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -830,7 +1950,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_8000_285_p",
+    "id": "formfutura_pla_easyfileplanatural_4500_175_c",
+    "name": "EasyFil ePLA Natürlich",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "e9eacc",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplanatural_4500_285_c",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -840,7 +1970,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_8000_285_p",
+    "id": "formfutura_pla_easyfileplanatural_4500_285_c",
+    "name": "EasyFil ePLA Natürlich",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "e9eacc",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplanatural_4500_175_p",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -850,7 +1990,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_8000_285_p",
+    "id": "formfutura_pla_easyfileplanatural_4500_175_p",
+    "name": "EasyFil ePLA Natürlich",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "e9eacc",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplanatural_4500_285_p",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -860,7 +2010,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_8000_285_p",
+    "id": "formfutura_pla_easyfileplanatural_4500_285_p",
+    "name": "EasyFil ePLA Natürlich",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "e9eacc",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplanatural_8000_175_p",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -870,7 +2030,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplanatural_8000_285_p",
+    "id": "formfutura_pla_easyfileplanatural_8000_175_p",
+    "name": "EasyFil ePLA Natürlich",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "e9eacc",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplanatural_8000_285_p",
     "name": "EasyFil PLA Natürlich",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -880,7 +2050,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplablack_8000_285_p",
+    "id": "formfutura_pla_easyfileplanatural_8000_285_p",
+    "name": "EasyFil ePLA Natürlich",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "e9eacc",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplatrafficblack_250_175_c",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -890,7 +2070,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplablack_8000_285_p",
+    "id": "formfutura_pla_easyfileplatrafficblack_250_175_c",
+    "name": "EasyFil ePLA Verkehrsschwarz",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 250.0,
+    "color_hex": "0f0f0f",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplatrafficblack_250_285_c",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -900,27 +2090,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplablack_8000_285_p",
-    "name": "EasyFil PLA Schwarz",
+    "id": "formfutura_pla_easyfileplatrafficblack_250_285_c",
+    "name": "EasyFil ePLA Verkehrsschwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
-    "weight": 750.0,
-    "color_hex": "0f0f0f",
-    "density": 1.24,
-    "diameter": 1.75
-  },
-  {
-    "id": "formfutura_pla_easyfilplablack_8000_285_p",
-    "name": "EasyFil PLA Schwarz",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 750.0,
+    "weight": 250.0,
     "color_hex": "0f0f0f",
     "density": 1.24,
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplablack_8000_285_p",
+    "id": "formfutura_pla_easyfileplatrafficblack_2300_175_c",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -930,7 +2110,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplablack_8000_285_p",
+    "id": "formfutura_pla_easyfileplatrafficblack_2300_175_c",
+    "name": "EasyFil ePLA Verkehrsschwarz",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "0f0f0f",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplatrafficblack_2300_285_c",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -940,7 +2130,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplablack_8000_285_p",
+    "id": "formfutura_pla_easyfileplatrafficblack_2300_285_c",
+    "name": "EasyFil ePLA Verkehrsschwarz",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "0f0f0f",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplatrafficblack_2300_175_p",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -950,7 +2150,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplablack_8000_285_p",
+    "id": "formfutura_pla_easyfileplatrafficblack_2300_175_p",
+    "name": "EasyFil ePLA Verkehrsschwarz",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "0f0f0f",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplatrafficblack_2300_285_p",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -960,7 +2170,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplablack_8000_285_p",
+    "id": "formfutura_pla_easyfileplatrafficblack_2300_285_p",
+    "name": "EasyFil ePLA Verkehrsschwarz",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "0f0f0f",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplatrafficblack_4500_175_c",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -970,7 +2190,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplablack_8000_285_p",
+    "id": "formfutura_pla_easyfileplatrafficblack_4500_175_c",
+    "name": "EasyFil ePLA Verkehrsschwarz",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "0f0f0f",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplatrafficblack_4500_285_c",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -980,7 +2210,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplablack_8000_285_p",
+    "id": "formfutura_pla_easyfileplatrafficblack_4500_285_c",
+    "name": "EasyFil ePLA Verkehrsschwarz",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "0f0f0f",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplatrafficblack_4500_175_p",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -990,7 +2230,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplablack_8000_285_p",
+    "id": "formfutura_pla_easyfileplatrafficblack_4500_175_p",
+    "name": "EasyFil ePLA Verkehrsschwarz",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "0f0f0f",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplatrafficblack_4500_285_p",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1000,7 +2250,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplablack_8000_285_p",
+    "id": "formfutura_pla_easyfileplatrafficblack_4500_285_p",
+    "name": "EasyFil ePLA Verkehrsschwarz",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "0f0f0f",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplatrafficblack_8000_175_p",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1010,7 +2270,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplablack_8000_285_p",
+    "id": "formfutura_pla_easyfileplatrafficblack_8000_175_p",
+    "name": "EasyFil ePLA Verkehrsschwarz",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "0f0f0f",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplatrafficblack_8000_285_p",
     "name": "EasyFil PLA Schwarz",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1020,7 +2290,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_8000_285_p",
+    "id": "formfutura_pla_easyfileplatrafficblack_8000_285_p",
+    "name": "EasyFil ePLA Verkehrsschwarz",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "0f0f0f",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplaluminousyellow_250_175_c",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1030,7 +2310,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_8000_285_p",
+    "id": "formfutura_pla_easyfileplaluminousyellow_250_175_c",
+    "name": "EasyFil ePLA Strahlend Gelb",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 250.0,
+    "color_hex": "f7ff23",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplaluminousyellow_250_285_c",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1040,27 +2330,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_8000_285_p",
-    "name": "EasyFil PLA Strahlend Gelb",
+    "id": "formfutura_pla_easyfileplaluminousyellow_250_285_c",
+    "name": "EasyFil ePLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
-    "weight": 750.0,
-    "color_hex": "f7ff23",
-    "density": 1.24,
-    "diameter": 1.75
-  },
-  {
-    "id": "formfutura_pla_easyfilplaluminousyellow_8000_285_p",
-    "name": "EasyFil PLA Strahlend Gelb",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 750.0,
+    "weight": 250.0,
     "color_hex": "f7ff23",
     "density": 1.24,
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_8000_285_p",
+    "id": "formfutura_pla_easyfileplaluminousyellow_2300_175_c",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1070,7 +2350,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_8000_285_p",
+    "id": "formfutura_pla_easyfileplaluminousyellow_2300_175_c",
+    "name": "EasyFil ePLA Strahlend Gelb",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "f7ff23",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplaluminousyellow_2300_285_c",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1080,7 +2370,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_8000_285_p",
+    "id": "formfutura_pla_easyfileplaluminousyellow_2300_285_c",
+    "name": "EasyFil ePLA Strahlend Gelb",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "f7ff23",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplaluminousyellow_2300_175_p",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1090,7 +2390,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_8000_285_p",
+    "id": "formfutura_pla_easyfileplaluminousyellow_2300_175_p",
+    "name": "EasyFil ePLA Strahlend Gelb",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "f7ff23",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplaluminousyellow_2300_285_p",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1100,7 +2410,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_8000_285_p",
+    "id": "formfutura_pla_easyfileplaluminousyellow_2300_285_p",
+    "name": "EasyFil ePLA Strahlend Gelb",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "f7ff23",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplaluminousyellow_4500_175_c",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1110,7 +2430,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_8000_285_p",
+    "id": "formfutura_pla_easyfileplaluminousyellow_4500_175_c",
+    "name": "EasyFil ePLA Strahlend Gelb",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "f7ff23",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplaluminousyellow_4500_285_c",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1120,7 +2450,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_8000_285_p",
+    "id": "formfutura_pla_easyfileplaluminousyellow_4500_285_c",
+    "name": "EasyFil ePLA Strahlend Gelb",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "f7ff23",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplaluminousyellow_4500_175_p",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1130,7 +2470,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_8000_285_p",
+    "id": "formfutura_pla_easyfileplaluminousyellow_4500_175_p",
+    "name": "EasyFil ePLA Strahlend Gelb",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "f7ff23",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplaluminousyellow_4500_285_p",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1140,7 +2490,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_8000_285_p",
+    "id": "formfutura_pla_easyfileplaluminousyellow_4500_285_p",
+    "name": "EasyFil ePLA Strahlend Gelb",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "f7ff23",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplaluminousyellow_8000_175_p",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1150,7 +2510,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplaluminousyellow_8000_285_p",
+    "id": "formfutura_pla_easyfileplaluminousyellow_8000_175_p",
+    "name": "EasyFil ePLA Strahlend Gelb",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "f7ff23",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplaluminousyellow_8000_285_p",
     "name": "EasyFil PLA Strahlend Gelb",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1160,7 +2530,17 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfilplawhite_8000_285_p",
+    "id": "formfutura_pla_easyfileplaluminousyellow_8000_285_p",
+    "name": "EasyFil ePLA Strahlend Gelb",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "f7ff23",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_250_175_c",
     "name": "EasyFil PLA Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1170,137 +2550,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplawhite_8000_285_p",
-    "name": "EasyFil PLA Weiß",
+    "id": "formfutura_pla_easyfileplasnowwhite_250_175_c",
+    "name": "EasyFil ePLA Schnee Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
     "weight": 250.0,
     "color_hex": "ffffff",
     "density": 1.24,
-    "diameter": 2.85
-  },
-  {
-    "id": "formfutura_pla_easyfilplawhite_8000_285_p",
-    "name": "EasyFil PLA Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 750.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfilplawhite_8000_285_p",
-    "name": "EasyFil PLA Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 750.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 2.85
-  },
-  {
-    "id": "formfutura_pla_easyfilplawhite_8000_285_p",
-    "name": "EasyFil PLA Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 2300.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 1.75
-  },
-  {
-    "id": "formfutura_pla_easyfilplawhite_8000_285_p",
-    "name": "EasyFil PLA Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 2300.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 2.85
-  },
-  {
-    "id": "formfutura_pla_easyfilplawhite_8000_285_p",
-    "name": "EasyFil PLA Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 2300.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 1.75
-  },
-  {
-    "id": "formfutura_pla_easyfilplawhite_8000_285_p",
-    "name": "EasyFil PLA Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 2300.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 2.85
-  },
-  {
-    "id": "formfutura_pla_easyfilplawhite_8000_285_p",
-    "name": "EasyFil PLA Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 4500.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 1.75
-  },
-  {
-    "id": "formfutura_pla_easyfilplawhite_8000_285_p",
-    "name": "EasyFil PLA Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 4500.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 2.85
-  },
-  {
-    "id": "formfutura_pla_easyfilplawhite_8000_285_p",
-    "name": "EasyFil PLA Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 4500.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 1.75
-  },
-  {
-    "id": "formfutura_pla_easyfilplawhite_8000_285_p",
-    "name": "EasyFil PLA Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 4500.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 2.85
-  },
-  {
-    "id": "formfutura_pla_easyfilplawhite_8000_285_p",
-    "name": "EasyFil PLA Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 8000.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 1.75
-  },
-  {
-    "id": "formfutura_pla_easyfilplawhite_8000_285_p",
-    "name": "EasyFil PLA Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 8000.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 2.85
-  },
-  {
-    "id": "formfutura_pla_easyfileplasignalwhite_1000_285_c",
+    "id": "formfutura_pla_easyfileplasnowwhite_250_175_c",
     "name": "EasyFil ePLA Signal Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1310,7 +2570,27 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_1000_285_c",
+    "id": "formfutura_pla_easyfileplasnowwhite_250_285_c",
+    "name": "EasyFil PLA Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 250.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_250_285_c",
+    "name": "EasyFil ePLA Schnee Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 250.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_250_285_c",
     "name": "EasyFil ePLA Signal Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1320,7 +2600,317 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_1000_285_c",
+    "id": "formfutura_pla_easyfileplasnowwhite_2300_175_c",
+    "name": "EasyFil PLA Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_2300_175_c",
+    "name": "EasyFil ePLA Schnee Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_2300_175_c",
+    "name": "EasyFil ePLA Signal Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_2300_285_c",
+    "name": "EasyFil PLA Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_2300_285_c",
+    "name": "EasyFil ePLA Schnee Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_2300_285_c",
+    "name": "EasyFil ePLA Signal Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_2300_175_p",
+    "name": "EasyFil PLA Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_2300_175_p",
+    "name": "EasyFil ePLA Schnee Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_2300_175_p",
+    "name": "EasyFil ePLA Signal Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_2300_285_p",
+    "name": "EasyFil PLA Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_2300_285_p",
+    "name": "EasyFil ePLA Schnee Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_2300_285_p",
+    "name": "EasyFil ePLA Signal Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 2300.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_4500_175_c",
+    "name": "EasyFil PLA Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_4500_175_c",
+    "name": "EasyFil ePLA Schnee Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_4500_175_c",
+    "name": "EasyFil ePLA Signal Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_4500_285_c",
+    "name": "EasyFil PLA Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_4500_285_c",
+    "name": "EasyFil ePLA Schnee Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_4500_285_c",
+    "name": "EasyFil ePLA Signal Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_4500_175_p",
+    "name": "EasyFil PLA Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_4500_175_p",
+    "name": "EasyFil ePLA Schnee Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_4500_175_p",
+    "name": "EasyFil ePLA Signal Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_4500_285_p",
+    "name": "EasyFil PLA Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_4500_285_p",
+    "name": "EasyFil ePLA Schnee Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_4500_285_p",
+    "name": "EasyFil ePLA Signal Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 4500.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_8000_175_p",
+    "name": "EasyFil PLA Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_8000_175_p",
+    "name": "EasyFil ePLA Schnee Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_8000_175_p",
+    "name": "EasyFil ePLA Signal Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_8000_285_p",
+    "name": "EasyFil PLA Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_8000_285_p",
+    "name": "EasyFil ePLA Schnee Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_8000_285_p",
+    "name": "EasyFil ePLA Signal Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 8000.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_1000_175_c",
+    "name": "EasyFil ePLA Schnee Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 1000.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 1.75
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_1000_175_c",
     "name": "EasyFil ePLA Signal Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1330,7 +2920,17 @@
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_1000_285_c",
+    "id": "formfutura_pla_easyfileplasnowwhite_1000_285_c",
+    "name": "EasyFil ePLA Schnee Weiß",
+    "material": "PLA",
+    "manufacturer": "Formfutura",
+    "weight": 1000.0,
+    "color_hex": "ffffff",
+    "density": 1.24,
+    "diameter": 2.85
+  },
+  {
+    "id": "formfutura_pla_easyfileplasnowwhite_1000_285_c",
     "name": "EasyFil ePLA Signal Weiß",
     "material": "PLA",
     "manufacturer": "Formfutura",
@@ -1340,107 +2940,157 @@
     "diameter": 2.85
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_1000_285_c",
-    "name": "EasyFil ePLA Signal Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 2300.0,
-    "color_hex": "ffffff",
+    "id": "gst3d_pla+_brightblack_1000_175_p",
+    "name": "(Bright) Hellschwarz",
+    "material": "PLA+",
+    "manufacturer": "GST3D",
+    "weight": 1000.0,
+    "color_hex": "000000",
     "density": 1.24,
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_1000_285_c",
-    "name": "EasyFil ePLA Signal Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 2300.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 2.85
-  },
-  {
-    "id": "formfutura_pla_easyfileplasignalwhite_1000_285_c",
-    "name": "EasyFil ePLA Signal Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 2300.0,
-    "color_hex": "ffffff",
+    "id": "gst3d_pla+_brightblack_1000_175_p",
+    "name": "Schwarz",
+    "material": "PLA+",
+    "manufacturer": "GST3D",
+    "weight": 1000.0,
+    "color_hex": "000000",
     "density": 1.24,
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_1000_285_c",
-    "name": "EasyFil ePLA Signal Weiß",
+    "id": "hatchbox_pla_sparklered_1000_175_p",
+    "name": "Eisenrot",
     "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 2300.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 2.85
+    "manufacturer": "Hatchbox",
+    "weight": 1000,
+    "color_hex": "79111E",
+    "density": 1.27,
+    "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_1000_285_c",
-    "name": "EasyFil ePLA Signal Weiß",
+    "id": "hatchbox_pla_sparklered_1000_175_p",
+    "name": "Sparkle Rot",
     "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 4500.0,
-    "color_hex": "ffffff",
+    "manufacturer": "Hatchbox",
+    "weight": 1000,
+    "color_hex": "79111E",
+    "density": 1.27,
+    "diameter": 1.75
+  },
+  {
+    "id": "hatchbox_pla_yellow_1000_175_p",
+    "name": "Gelb",
+    "material": "PLA",
+    "manufacturer": "Hatchbox",
+    "weight": 1000,
+    "color_hex": "ECD018",
+    "density": 1.27,
+    "diameter": 1.75
+  },
+  {
+    "id": "hatchbox_pla_yellow_1000_175_p",
+    "name": "Sparkle Gelb",
+    "material": "PLA",
+    "manufacturer": "Hatchbox",
+    "weight": 1000,
+    "color_hex": "ECD018",
+    "density": 1.27,
+    "diameter": 1.75
+  },
+  {
+    "id": "jayo_pla_white(glowgreen)_1100_175_c",
+    "name": "Weiß (Leuchtendes Blau)",
+    "material": "PLA",
+    "manufacturer": "JAYO",
+    "weight": 1100.0,
+    "color_hex": "000000",
     "density": 1.24,
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_1000_285_c",
-    "name": "EasyFil ePLA Signal Weiß",
+    "id": "jayo_pla_white(glowgreen)_1100_175_c",
+    "name": "Weiß (Leuchtendes Grün)",
     "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 4500.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 2.85
-  },
-  {
-    "id": "formfutura_pla_easyfileplasignalwhite_1000_285_c",
-    "name": "EasyFil ePLA Signal Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 4500.0,
-    "color_hex": "ffffff",
+    "manufacturer": "JAYO",
+    "weight": 1100.0,
+    "color_hex": "000000",
     "density": 1.24,
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_1000_285_c",
-    "name": "EasyFil ePLA Signal Weiß",
-    "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 4500.0,
-    "color_hex": "ffffff",
-    "density": 1.24,
-    "diameter": 2.85
+    "id": "ldo_abs_stardustgray_1000_175_n",
+    "name": "Rauchgrau",
+    "material": "ABS",
+    "manufacturer": "LDO",
+    "weight": 1000,
+    "color_hex": "75787B",
+    "density": 1.06,
+    "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_1000_285_c",
-    "name": "EasyFil ePLA Signal Weiß",
+    "id": "ldo_abs_stardustgray_1000_175_n",
+    "name": "Sternenstaub Grau",
+    "material": "ABS",
+    "manufacturer": "LDO",
+    "weight": 1000,
+    "color_hex": "75787B",
+    "density": 1.06,
+    "diameter": 1.75
+  },
+  {
+    "id": "overture_pla_rockplarockrainbow_1000_175_c",
+    "name": "Matte PLA Regenbogen",
     "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 8000.0,
-    "color_hex": "ffffff",
+    "manufacturer": "Overture",
+    "weight": 1000.0,
+    "color_hex": null,
+    "density": 1.3,
+    "diameter": 1.75
+  },
+  {
+    "id": "overture_pla_rockplarockrainbow_1000_175_c",
+    "name": "Matte PLA Regenbogen A1",
+    "material": "PLA",
+    "manufacturer": "Overture",
+    "weight": 1000.0,
+    "color_hex": null,
+    "density": 1.3,
+    "diameter": 1.75
+  },
+  {
+    "id": "overture_pla_rockplarockrainbow_1000_175_c",
+    "name": "Rock PLA Stein Regenbogen",
+    "material": "PLA",
+    "manufacturer": "Overture",
+    "weight": 1000.0,
+    "color_hex": null,
+    "density": 1.3,
+    "diameter": 1.75
+  },
+  {
+    "id": "polarfilament_pla_sapphire_1000_175_c",
+    "name": "Marineblau",
+    "material": "PLA",
+    "manufacturer": "Polar Filament",
+    "weight": 1000.0,
+    "color_hex": "043591",
     "density": 1.24,
     "diameter": 1.75
   },
   {
-    "id": "formfutura_pla_easyfileplasignalwhite_1000_285_c",
-    "name": "EasyFil ePLA Signal Weiß",
+    "id": "polarfilament_pla_sapphire_1000_175_c",
+    "name": "Saphir",
     "material": "PLA",
-    "manufacturer": "Formfutura",
-    "weight": 8000.0,
-    "color_hex": "ffffff",
+    "manufacturer": "Polar Filament",
+    "weight": 1000.0,
+    "color_hex": "043591",
     "density": 1.24,
-    "diameter": 2.85
+    "diameter": 1.75
   },
   {
-    "id": "polymaker_abs_polyliteabsdarkgrey_5000_285_p",
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_1000_175_c",
     "name": "PolyLite™ ABS Dunkelgrau",
     "material": "ABS",
     "manufacturer": "Polymaker",
@@ -1450,7 +3100,27 @@
     "diameter": 1.75
   },
   {
-    "id": "polymaker_abs_polyliteabsdarkgrey_5000_285_p",
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_1000_175_c",
+    "name": "PolyLite™ ABS Galaxie Dunkelgrau",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "474648",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_1000_175_c",
+    "name": "PolyLite™ ABS Galaxie Schwarz",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "474648",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_1000_285_c",
     "name": "PolyLite™ ABS Dunkelgrau",
     "material": "ABS",
     "manufacturer": "Polymaker",
@@ -1460,7 +3130,27 @@
     "diameter": 2.85
   },
   {
-    "id": "polymaker_abs_polyliteabsdarkgrey_5000_285_p",
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_1000_285_c",
+    "name": "PolyLite™ ABS Galaxie Dunkelgrau",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "474648",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_1000_285_c",
+    "name": "PolyLite™ ABS Galaxie Schwarz",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "474648",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_3000_175_c",
     "name": "PolyLite™ ABS Dunkelgrau",
     "material": "ABS",
     "manufacturer": "Polymaker",
@@ -1470,7 +3160,27 @@
     "diameter": 1.75
   },
   {
-    "id": "polymaker_abs_polyliteabsdarkgrey_5000_285_p",
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_3000_175_c",
+    "name": "PolyLite™ ABS Galaxie Dunkelgrau",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 3000.0,
+    "color_hex": "474648",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_3000_175_c",
+    "name": "PolyLite™ ABS Galaxie Schwarz",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 3000.0,
+    "color_hex": "474648",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_3000_285_c",
     "name": "PolyLite™ ABS Dunkelgrau",
     "material": "ABS",
     "manufacturer": "Polymaker",
@@ -1480,7 +3190,27 @@
     "diameter": 2.85
   },
   {
-    "id": "polymaker_abs_polyliteabsdarkgrey_5000_285_p",
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_3000_285_c",
+    "name": "PolyLite™ ABS Galaxie Dunkelgrau",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 3000.0,
+    "color_hex": "474648",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_3000_285_c",
+    "name": "PolyLite™ ABS Galaxie Schwarz",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 3000.0,
+    "color_hex": "474648",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_5000_175_p",
     "name": "PolyLite™ ABS Dunkelgrau",
     "material": "ABS",
     "manufacturer": "Polymaker",
@@ -1490,7 +3220,27 @@
     "diameter": 1.75
   },
   {
-    "id": "polymaker_abs_polyliteabsdarkgrey_5000_285_p",
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_5000_175_p",
+    "name": "PolyLite™ ABS Galaxie Dunkelgrau",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 5000.0,
+    "color_hex": "474648",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_5000_175_p",
+    "name": "PolyLite™ ABS Galaxie Schwarz",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 5000.0,
+    "color_hex": "474648",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_5000_285_p",
     "name": "PolyLite™ ABS Dunkelgrau",
     "material": "ABS",
     "manufacturer": "Polymaker",
@@ -1500,177 +3250,17 @@
     "diameter": 2.85
   },
   {
-    "id": "polymaker_abs_polyliteabsgalaxypurple_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Lila",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 1000.0,
-    "color_hex": "6545A5",
-    "density": 1.12,
-    "diameter": 1.75
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxypurple_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Lila",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 1000.0,
-    "color_hex": "6545A5",
-    "density": 1.12,
-    "diameter": 2.85
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxypurple_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Lila",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 3000.0,
-    "color_hex": "6545A5",
-    "density": 1.12,
-    "diameter": 1.75
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxypurple_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Lila",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 3000.0,
-    "color_hex": "6545A5",
-    "density": 1.12,
-    "diameter": 2.85
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxypurple_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Lila",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 5000.0,
-    "color_hex": "6545A5",
-    "density": 1.12,
-    "diameter": 1.75
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxypurple_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Lila",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 5000.0,
-    "color_hex": "6545A5",
-    "density": 1.12,
-    "diameter": 2.85
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxyorange_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Orange",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 1000.0,
-    "color_hex": "F57517",
-    "density": 1.12,
-    "diameter": 1.75
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxyorange_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Orange",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 1000.0,
-    "color_hex": "F57517",
-    "density": 1.12,
-    "diameter": 2.85
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxyorange_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Orange",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 3000.0,
-    "color_hex": "F57517",
-    "density": 1.12,
-    "diameter": 1.75
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxyorange_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Orange",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 3000.0,
-    "color_hex": "F57517",
-    "density": 1.12,
-    "diameter": 2.85
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxyorange_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Orange",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 5000.0,
-    "color_hex": "F57517",
-    "density": 1.12,
-    "diameter": 1.75
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxyorange_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Orange",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 5000.0,
-    "color_hex": "F57517",
-    "density": 1.12,
-    "diameter": 2.85
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxyblack_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Schwarz",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 1000.0,
-    "color_hex": "474648",
-    "density": 1.12,
-    "diameter": 1.75
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxyblack_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Schwarz",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 1000.0,
-    "color_hex": "474648",
-    "density": 1.12,
-    "diameter": 2.85
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxyblack_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Schwarz",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 3000.0,
-    "color_hex": "474648",
-    "density": 1.12,
-    "diameter": 1.75
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxyblack_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Schwarz",
-    "material": "ABS",
-    "manufacturer": "Polymaker",
-    "weight": 3000.0,
-    "color_hex": "474648",
-    "density": 1.12,
-    "diameter": 2.85
-  },
-  {
-    "id": "polymaker_abs_polyliteabsgalaxyblack_5000_285_p",
-    "name": "PolyLite™ ABS Galaxie Schwarz",
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_5000_285_p",
+    "name": "PolyLite™ ABS Galaxie Dunkelgrau",
     "material": "ABS",
     "manufacturer": "Polymaker",
     "weight": 5000.0,
     "color_hex": "474648",
     "density": 1.12,
-    "diameter": 1.75
+    "diameter": 2.85
   },
   {
-    "id": "polymaker_abs_polyliteabsgalaxyblack_5000_285_p",
+    "id": "polymaker_abs_polyliteabsgalaxydarkgrey_5000_285_p",
     "name": "PolyLite™ ABS Galaxie Schwarz",
     "material": "ABS",
     "manufacturer": "Polymaker",
@@ -1680,7 +3270,267 @@
     "diameter": 2.85
   },
   {
-    "id": "polymaker_pla_polyliteplamagenta_5000_285_p",
+    "id": "polymaker_abs_polyliteabspurple_1000_175_c",
+    "name": "PolyLite™ ABS Galaxie Lila",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "6545A5",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabspurple_1000_175_c",
+    "name": "PolyLite™ ABS Lila",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "6545A5",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabspurple_1000_285_c",
+    "name": "PolyLite™ ABS Galaxie Lila",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "6545A5",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabspurple_1000_285_c",
+    "name": "PolyLite™ ABS Lila",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "6545A5",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabspurple_3000_175_c",
+    "name": "PolyLite™ ABS Galaxie Lila",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 3000.0,
+    "color_hex": "6545A5",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabspurple_3000_175_c",
+    "name": "PolyLite™ ABS Lila",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 3000.0,
+    "color_hex": "6545A5",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabspurple_3000_285_c",
+    "name": "PolyLite™ ABS Galaxie Lila",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 3000.0,
+    "color_hex": "6545A5",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabspurple_3000_285_c",
+    "name": "PolyLite™ ABS Lila",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 3000.0,
+    "color_hex": "6545A5",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabspurple_5000_175_p",
+    "name": "PolyLite™ ABS Galaxie Lila",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 5000.0,
+    "color_hex": "6545A5",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabspurple_5000_175_p",
+    "name": "PolyLite™ ABS Lila",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 5000.0,
+    "color_hex": "6545A5",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabspurple_5000_285_p",
+    "name": "PolyLite™ ABS Galaxie Lila",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 5000.0,
+    "color_hex": "6545A5",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabspurple_5000_285_p",
+    "name": "PolyLite™ ABS Lila",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 5000.0,
+    "color_hex": "6545A5",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabsorange_1000_175_c",
+    "name": "PolyLite™ ABS Galaxie Orange",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "F57517",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabsorange_1000_175_c",
+    "name": "PolyLite™ ABS Orange",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "F57517",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabsorange_1000_285_c",
+    "name": "PolyLite™ ABS Galaxie Orange",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "F57517",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabsorange_1000_285_c",
+    "name": "PolyLite™ ABS Orange",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "F57517",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabsorange_3000_175_c",
+    "name": "PolyLite™ ABS Galaxie Orange",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 3000.0,
+    "color_hex": "F57517",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabsorange_3000_175_c",
+    "name": "PolyLite™ ABS Orange",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 3000.0,
+    "color_hex": "F57517",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabsorange_3000_285_c",
+    "name": "PolyLite™ ABS Galaxie Orange",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 3000.0,
+    "color_hex": "F57517",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabsorange_3000_285_c",
+    "name": "PolyLite™ ABS Orange",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 3000.0,
+    "color_hex": "F57517",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabsorange_5000_175_p",
+    "name": "PolyLite™ ABS Galaxie Orange",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 5000.0,
+    "color_hex": "F57517",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabsorange_5000_175_p",
+    "name": "PolyLite™ ABS Orange",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 5000.0,
+    "color_hex": "F57517",
+    "density": 1.12,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_abs_polyliteabsorange_5000_285_p",
+    "name": "PolyLite™ ABS Galaxie Orange",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 5000.0,
+    "color_hex": "F57517",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_abs_polyliteabsorange_5000_285_p",
+    "name": "PolyLite™ ABS Orange",
+    "material": "ABS",
+    "manufacturer": "Polymaker",
+    "weight": 5000.0,
+    "color_hex": "F57517",
+    "density": 1.12,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_pc_polymakerpc-pbtblack_1000_175_c",
+    "name": "PolyMax™ PC-FR Schwarz",
+    "material": "PC",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "101820",
+    "density": 1.2,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pc_polymakerpc-pbtblack_1000_175_c",
+    "name": "Polymaker PC-PBT Schwarz",
+    "material": "PC",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "101820",
+    "density": 1.2,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polyliteplapink_1000_175_c",
     "name": "PolyLite™ PLA Magenta",
     "material": "PLA",
     "manufacturer": "Polymaker",
@@ -1690,7 +3540,17 @@
     "diameter": 1.75
   },
   {
-    "id": "polymaker_pla_polyliteplamagenta_5000_285_p",
+    "id": "polymaker_pla_polyliteplapink_1000_175_c",
+    "name": "PolyLite™ PLA Pink",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "F2306E",
+    "density": 1.17,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polyliteplapink_1000_285_c",
     "name": "PolyLite™ PLA Magenta",
     "material": "PLA",
     "manufacturer": "Polymaker",
@@ -1700,7 +3560,17 @@
     "diameter": 2.85
   },
   {
-    "id": "polymaker_pla_polyliteplamagenta_5000_285_p",
+    "id": "polymaker_pla_polyliteplapink_1000_285_c",
+    "name": "PolyLite™ PLA Pink",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "F2306E",
+    "density": 1.17,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_pla_polyliteplapink_1000_175_p",
     "name": "PolyLite™ PLA Magenta",
     "material": "PLA",
     "manufacturer": "Polymaker",
@@ -1710,7 +3580,17 @@
     "diameter": 1.75
   },
   {
-    "id": "polymaker_pla_polyliteplamagenta_5000_285_p",
+    "id": "polymaker_pla_polyliteplapink_1000_175_p",
+    "name": "PolyLite™ PLA Pink",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "F2306E",
+    "density": 1.17,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polyliteplapink_1000_285_p",
     "name": "PolyLite™ PLA Magenta",
     "material": "PLA",
     "manufacturer": "Polymaker",
@@ -1720,7 +3600,17 @@
     "diameter": 2.85
   },
   {
-    "id": "polymaker_pla_polyliteplamagenta_5000_285_p",
+    "id": "polymaker_pla_polyliteplapink_1000_285_p",
+    "name": "PolyLite™ PLA Pink",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "F2306E",
+    "density": 1.17,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_pla_polyliteplapink_3000_175_c",
     "name": "PolyLite™ PLA Magenta",
     "material": "PLA",
     "manufacturer": "Polymaker",
@@ -1730,7 +3620,17 @@
     "diameter": 1.75
   },
   {
-    "id": "polymaker_pla_polyliteplamagenta_5000_285_p",
+    "id": "polymaker_pla_polyliteplapink_3000_175_c",
+    "name": "PolyLite™ PLA Pink",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 3000.0,
+    "color_hex": "F2306E",
+    "density": 1.17,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polyliteplapink_3000_285_c",
     "name": "PolyLite™ PLA Magenta",
     "material": "PLA",
     "manufacturer": "Polymaker",
@@ -1740,7 +3640,17 @@
     "diameter": 2.85
   },
   {
-    "id": "polymaker_pla_polyliteplamagenta_5000_285_p",
+    "id": "polymaker_pla_polyliteplapink_3000_285_c",
+    "name": "PolyLite™ PLA Pink",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 3000.0,
+    "color_hex": "F2306E",
+    "density": 1.17,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_pla_polyliteplapink_5000_175_p",
     "name": "PolyLite™ PLA Magenta",
     "material": "PLA",
     "manufacturer": "Polymaker",
@@ -1750,7 +3660,17 @@
     "diameter": 1.75
   },
   {
-    "id": "polymaker_pla_polyliteplamagenta_5000_285_p",
+    "id": "polymaker_pla_polyliteplapink_5000_175_p",
+    "name": "PolyLite™ PLA Pink",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 5000.0,
+    "color_hex": "F2306E",
+    "density": 1.17,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polyliteplapink_5000_285_p",
     "name": "PolyLite™ PLA Magenta",
     "material": "PLA",
     "manufacturer": "Polymaker",
@@ -1760,7 +3680,187 @@
     "diameter": 2.85
   },
   {
-    "id": "esun_petg_solidgold_1000_285_n",
+    "id": "polymaker_pla_polyliteplapink_5000_285_p",
+    "name": "PolyLite™ PLA Pink",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 5000.0,
+    "color_hex": "F2306E",
+    "density": 1.17,
+    "diameter": 2.85
+  },
+  {
+    "id": "polymaker_pla_polysonicplayellow_1000_175_c",
+    "name": "PolySonic™ PLA Gelb",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "F4c032",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polysonicplayellow_1000_175_c",
+    "name": "PolySonic™ PLA Pro Gelb",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "F4c032",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polysonicplaprogreen_1000_175_c",
+    "name": "PolySonic™ PLA Grün",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "2d9e59",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polysonicplaprogreen_1000_175_c",
+    "name": "PolySonic™ PLA Pro Grün",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "2d9e59",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polysonicplapurple_1000_175_c",
+    "name": "PolySonic™ PLA Lila",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "6c5bb1",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polysonicplapurple_1000_175_c",
+    "name": "PolySonic™ PLA Pro Lila",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "6c5bb1",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polysonicplaproorange_1000_175_c",
+    "name": "PolySonic™ PLA Orange",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "F97429",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polysonicplaproorange_1000_175_c",
+    "name": "PolySonic™ PLA Pro Orange",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "F97429",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polysonicplapropolymakerteal_1000_175_c",
+    "name": "PolySonic™ PLA Polymaker Türkis",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "50dae4",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polysonicplapropolymakerteal_1000_175_c",
+    "name": "PolySonic™ PLA Pro Polymaker Türkis",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "50dae4",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polysonicplaproblack_1000_175_c",
+    "name": "PolySonic™ PLA Pro Schwarz",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "080A0D",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polysonicplaproblack_1000_175_c",
+    "name": "PolySonic™ PLA Schwarz",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "080A0D",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polysonicplawhite_1000_175_c",
+    "name": "PolySonic™ PLA Pro Weiß",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "E2DEDB",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "polymaker_pla_polysonicplawhite_1000_175_c",
+    "name": "PolySonic™ PLA Weiß",
+    "material": "PLA",
+    "manufacturer": "Polymaker",
+    "weight": 1000.0,
+    "color_hex": "E2DEDB",
+    "density": 1.23,
+    "diameter": 1.75
+  },
+  {
+    "id": "sunlu_pla_white(glowgreen)_1000_175_p",
+    "name": "Weiß (Leuchtendes Blau)",
+    "material": "PLA",
+    "manufacturer": "Sunlu",
+    "weight": 1000.0,
+    "color_hex": "000000",
+    "density": 1.26,
+    "diameter": 1.75
+  },
+  {
+    "id": "sunlu_pla_white(glowgreen)_1000_175_p",
+    "name": "Weiß (Leuchtendes Grün)",
+    "material": "PLA",
+    "manufacturer": "Sunlu",
+    "weight": 1000.0,
+    "color_hex": "000000",
+    "density": 1.26,
+    "diameter": 1.75
+  },
+  {
+    "id": "esun_petg_solidyellow_1000_175_n",
+    "name": "Solid Gelb",
+    "material": "PETG",
+    "manufacturer": "eSun",
+    "weight": 1000,
+    "color_hex": "e0a000",
+    "density": 1.27,
+    "diameter": 1.75
+  },
+  {
+    "id": "esun_petg_solidyellow_1000_175_n",
     "name": "Solid Gold",
     "material": "PETG",
     "manufacturer": "eSun",
@@ -1770,7 +3870,17 @@
     "diameter": 1.75
   },
   {
-    "id": "esun_petg_solidgold_1000_285_n",
+    "id": "esun_petg_solidyellow_1000_285_n",
+    "name": "Solid Gelb",
+    "material": "PETG",
+    "manufacturer": "eSun",
+    "weight": 1000,
+    "color_hex": "e0a000",
+    "density": 1.27,
+    "diameter": 2.85
+  },
+  {
+    "id": "esun_petg_solidyellow_1000_285_n",
     "name": "Solid Gold",
     "material": "PETG",
     "manufacturer": "eSun",
@@ -1778,5 +3888,105 @@
     "color_hex": "e0a000",
     "density": 1.27,
     "diameter": 2.85
+  },
+  {
+    "id": "esun_pla_pla-luminousluminousblue_1000_175_c",
+    "name": "PLA-Luminous Kernfarbig Strahlend Blau",
+    "material": "PLA",
+    "manufacturer": "eSun",
+    "weight": 1000,
+    "color_hex": "2c95cc",
+    "density": 1.2,
+    "diameter": 1.75
+  },
+  {
+    "id": "esun_pla_pla-luminousluminousblue_1000_175_c",
+    "name": "PLA-Luminous Strahlend Blau",
+    "material": "PLA",
+    "manufacturer": "eSun",
+    "weight": 1000,
+    "color_hex": "2c95cc",
+    "density": 1.2,
+    "diameter": 1.75
+  },
+  {
+    "id": "esun_pla_pla-luminousluminousgreen_1000_175_c",
+    "name": "PLA-Luminous Kernfarbig Strahlend Grün",
+    "material": "PLA",
+    "manufacturer": "eSun",
+    "weight": 1000,
+    "color_hex": "3c4242",
+    "density": 1.2,
+    "diameter": 1.75
+  },
+  {
+    "id": "esun_pla_pla-luminousluminousgreen_1000_175_c",
+    "name": "PLA-Luminous Strahlend Grün",
+    "material": "PLA",
+    "manufacturer": "eSun",
+    "weight": 1000,
+    "color_hex": "3c4242",
+    "density": 1.2,
+    "diameter": 1.75
+  },
+  {
+    "id": "esun_pla_pla-mattemorandipurple_1000_175_c",
+    "name": "PLA-Matte Matcha Grün",
+    "material": "PLA",
+    "manufacturer": "eSun",
+    "weight": 1000,
+    "color_hex": "90ba66",
+    "density": 1.329,
+    "diameter": 1.75
+  },
+  {
+    "id": "esun_pla_pla-mattemorandipurple_1000_175_c",
+    "name": "PLA-Matte Morandi Lila",
+    "material": "PLA",
+    "manufacturer": "eSun",
+    "weight": 1000,
+    "color_hex": "90ba66",
+    "density": 1.329,
+    "diameter": 1.75
+  },
+  {
+    "id": "gembird_abs_flame-brightyellow_1000_175_c",
+    "name": "(Bright) Flammen-Hellgelb",
+    "material": "ABS",
+    "manufacturer": "gembird",
+    "weight": 1000.0,
+    "color_hex": "ffff00",
+    "density": 1.01,
+    "diameter": 1.75
+  },
+  {
+    "id": "gembird_abs_flame-brightyellow_1000_175_c",
+    "name": "Gelb",
+    "material": "ABS",
+    "manufacturer": "gembird",
+    "weight": 1000.0,
+    "color_hex": "ffff00",
+    "density": 1.01,
+    "diameter": 1.75
+  },
+  {
+    "id": "gembird_abs_white_1000_175_c",
+    "name": "Transparent",
+    "material": "ABS",
+    "manufacturer": "gembird",
+    "weight": 1000.0,
+    "color_hex": "ffffff",
+    "density": 1.01,
+    "diameter": 1.75
+  },
+  {
+    "id": "gembird_abs_white_1000_175_c",
+    "name": "Weiß",
+    "material": "ABS",
+    "manufacturer": "gembird",
+    "weight": 1000.0,
+    "color_hex": "ffffff",
+    "density": 1.01,
+    "diameter": 1.75
   }
 ]
