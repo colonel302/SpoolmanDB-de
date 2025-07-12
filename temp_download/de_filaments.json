@@ -9648,6 +9648,28 @@
     "glow": false
   },
   {
+    "id": "bambulab_pa_supportforpa/pet_250_175_n",
+    "manufacturer": "Bambu Lab",
+    "name": "Support for PA/PET",
+    "material": "PA",
+    "density": 1.17,
+    "weight": 250,
+    "spool_weight": 250,
+    "spool_type": null,
+    "diameter": 1.75,
+    "color_hex": "BECF00",
+    "color_hexes": null,
+    "extruder_temp": 290,
+    "extruder_temp_range": null,
+    "bed_temp": 90,
+    "bed_temp_range": null,
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
     "id": "bambulab_pa_supportforpa/pet_500_175_n",
     "manufacturer": "Bambu Lab",
     "name": "Support for PA/PET",
