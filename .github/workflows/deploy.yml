@@ -1,0 +1,24 @@
+name: Deploy Filaments
+
+on:
+  workflow_run:
+    workflows: ["Build Filaments"]
+    branches: [main]
+    types:
+      - completed
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - name: Download build artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: filaments-artifacts
+          path: ./publish
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+        with:
+          path: ./publish
