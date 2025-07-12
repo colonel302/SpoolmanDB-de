@@ -7,7 +7,7 @@ mapping_file = os.path.join(download_folder, "id_mapping_manual.json")
 final_file = os.path.join(download_folder, "filaments.json")
 
 # Hilfsfelder für die Zuordnung (bei Bedarf anpassen)
-MAPPING_FIELDS = ["name", "material", "manufacturer", "diameter", "weight", "density", "color_hex"]
+MAPPING_FIELDS = ["name", "material", "manufacturer", "diameter", "weight", "density", "color_hex", "spool_type"]
 
 # Temporäre Datei laden
 if not os.path.exists(temp_file):
