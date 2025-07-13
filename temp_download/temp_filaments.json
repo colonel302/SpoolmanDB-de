@@ -124053,6 +124053,34 @@
     "glow": false
   },
   {
+    "id": "polymaker_pla-cf_polylitepla-cfblack_1000_175_c",
+    "manufacturer": "Polymaker",
+    "name": "PolyLite™ PLA-CF Schwarz",
+    "material": "PLA-CF",
+    "density": 1.29,
+    "weight": 1000.0,
+    "spool_weight": 140.0,
+    "spool_type": "cardboard",
+    "diameter": 1.75,
+    "color_hex": "000000",
+    "color_hexes": null,
+    "extruder_temp": null,
+    "extruder_temp_range": [
+      190,
+      220
+    ],
+    "bed_temp": null,
+    "bed_temp_range": [
+      30,
+      60
+    ],
+    "finish": null,
+    "multi_color_direction": null,
+    "pattern": null,
+    "translucent": false,
+    "glow": false
+  },
+  {
     "id": "polymaker_pva_polydissolves1(pva)natural_750_175_c",
     "manufacturer": "Polymaker",
     "name": "PolyDissolve™ S1 (PVA) Natürlich",
