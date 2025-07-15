@@ -2,6 +2,8 @@
 
 **SpoolmanDB mit deutscher Übersetzung**
 
+[Webseite - filaments.json](https://colonel302.github.io/SpoolmanDB-de/)
+
 ## Projektbeschreibung
 
 Dieses Repository enthält eine deutsche Version der SpoolmanDB-Datenbank für 3D-Druck-Filamente. 
