@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "id": "jayo_pla_white(glowgreen)_1100_175_c",
+    "name": "Weiß (Leuchtend-Blau)",
+    "material": "PLA",
+    "manufacturer": "JAYO",
+    "weight": 1100.0,
+    "color_hex": "000000",
+    "density": 1.24,
+    "spool_type": "cardboard",
+    "diameter": 1.75
+  },
+  {
+    "id": "jayo_pla_white(glowgreen)_1100_175_c",
+    "name": "Weiß (Leuchtend-Grün)",
+    "material": "PLA",
+    "manufacturer": "JAYO",
+    "weight": 1100.0,
+    "color_hex": "000000",
+    "density": 1.24,
+    "spool_type": "cardboard",
+    "diameter": 1.75
+  },
+  {
+    "id": "sunlu_pla_white(glowgreen)_1000_175_p",
+    "name": "Weiß (Leuchtend-Blau)",
+    "material": "PLA",
+    "manufacturer": "Sunlu",
+    "weight": 1000.0,
+    "color_hex": "000000",
+    "density": 1.26,
+    "spool_type": "plastic",
+    "diameter": 1.75
+  },
+  {
+    "id": "sunlu_pla_white(glowgreen)_1000_175_p",
+    "name": "Weiß (Leuchtend-Grün)",
+    "material": "PLA",
+    "manufacturer": "Sunlu",
+    "weight": 1000.0,
+    "color_hex": "000000",
+    "density": 1.26,
+    "spool_type": "plastic",
+    "diameter": 1.75
+  },
+  {
+    "id": "esun_pla_pla-mattemorandipurple_1000_175_c",
+    "name": "PLA-Matte Matcha-Grün",
+    "material": "PLA",
+    "manufacturer": "eSun",
+    "weight": 1000,
+    "color_hex": "90ba66",
+    "density": 1.329,
+    "spool_type": "cardboard",
+    "diameter": 1.75
+  },
+  {
+    "id": "esun_pla_pla-mattemorandipurple_1000_175_c",
+    "name": "PLA-Matte Morandi Lila",
+    "material": "PLA",
+    "manufacturer": "eSun",
+    "weight": 1000,
+    "color_hex": "90ba66",
+    "density": 1.329,
+    "spool_type": "cardboard",
+    "diameter": 1.75
+  }
+]
